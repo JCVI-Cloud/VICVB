@@ -1,0 +1,6 @@
+#!/bin/bash
+export VICVB_HOME=/home/atovtchi/work/jcvi_cloud_vir/inst
+export VICVB_JBROWSE_HOME=$VICVB_HOME/jbrowse/jbrowse
+#export PATH=$VICVB_JBROWSE_HOME/bin:$PATH
+export PYTHONUSERBASE=$VICVB_HOME
+export PATH=$PYTHONUSERBASE/bin:$PATH
