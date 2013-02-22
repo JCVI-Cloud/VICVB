@@ -1,5 +1,7 @@
 from subprocess import check_call
 import logging
+import config
+import util
 
 log = logging.getLogger(__name__)
 
@@ -9,9 +11,9 @@ class galaxy_jbrowse(object):
     def __init__(self,
             jbrowse_url,
             jbrowse_bin_dir,
-            jbrowse_galaxy_index_html_tpl,
-            tbl_to_asn_tpl,
-            tbl_to_asn_exe):
+            jbrowse_galaxy_index_html_tpl=None,
+            tbl_to_asn_tpl=None,
+            tbl_to_asn_exe=None):
         #the line below should be the first in
         #order to get all parameters into a dict
         self.opt = locals.copy()
@@ -29,6 +31,9 @@ class galaxy_jbrowse(object):
             jbrowse_url = self.opt["jbrowse_url"]
         if track_label is None:
             track_label = os.path.splitext(os.path.basename(gff_file))[0]
+        _jbrowse_dataset_index_html = \
+                config.get_data_string(self.opt["jbrowse_galaxy_index_html_tpl"],
+                    "galaxy.index.html")
         with open(index_html,"w") as f:
             f.write(_jbrowse_dataset_index_html.\
                 format(jbrowse_url=jbrowse_url.rstrip("/")))
@@ -49,7 +54,7 @@ class galaxy_jbrowse(object):
     def genbank_to_gff(self,
             genbank_file):
         check_call(["genbank_to_gff.py",genbank_file])
-        dict(gff_file=os.path.join(stripSfx(genbank_file)+".gff"))
+        dict(gff_file=os.path.join(genbank_file.splitext()[0]+".gff"))
 
     def vicvb_to_genbank(self,
             genome_name,
@@ -77,9 +82,10 @@ class galaxy_jbrowse(object):
                     )
 
         if tbl_to_asn_tpl is None:
-            tbl_to_asn_tpl = self.opt["tbl_to_asn_tpl"]
+            tbl_to_asn_tpl = config.get_data_file(self.opt["tbl_to_asn_tpl"],
+                    "sequin.tpl")
 
-        if "tbl_to_asn_exe" in self.opt:
+        if self.opt.get("tbl_to_asn_exe",None):
             tbl_to_asn_exe = self.opt["tbl_to_asn_exe"]
         else:
             tbl_to_asn_exe = "tbl2asn"
@@ -103,15 +109,15 @@ class galaxy_jbrowse(object):
             data_dir_out
             ):
             
-            res_gb = vicvb_to_genbank(
+            res_gb = self.vicvb_to_genbank(
                 genome_name=genome_name,
                 annot_inp_fasta=annot_inp_fasta,
                 annot_out_dir=annot_out_dir
                 )
             
-            res_gff = genbank_to_gff(genbank_file=res_gb["genbank_file"])
+            res_gff = self.genbank_to_gff(genbank_file=res_gb["genbank_file"])
 
-            gff_to_jbrowse(
+            self.gff_to_jbrowse(
                 fasta_file=annot_inp_fasta,
                 gff_file=res_gff["gff_file"],
                 index_html=index_html,
@@ -119,35 +125,20 @@ class galaxy_jbrowse(object):
                 )
         
 
-def getProgOptions():
-    from optparse import OptionParser, make_option
-    option_list = [
-        make_option(None, "--config-file",
-        action="store", 
-        type="string",
-        help="Config file",
-        dest="config_file"),
-        make_option(None, "--genome-name",
-        action="store", 
-        type="string",
-        help="Genome name",
-        dest="genome_name"),
-        make_option(None, "--annot-inp-fasta",
-        action="store", 
-        type="string",
-        help="",
-        dest="annot_inp_fasta"),
-    ]
-    parser = OptionParser(usage = "usage: %prog [options]",option_list=option_list)
-    (options, args) = parser.parse_args()
-
-    return options,args
+def to_jbrowse(conf,
+        genome_name,
+        annot_inp_fasta,
+        annot_out_dir,
+        index_html,
+        data_dir_out):
+    args = locals()
+    args.pop("conf")
+    opt = config.load_config_json(conf)
+    return galaxy_jbrowse(**opt).vicvb_to_jbrowse(**args)
 
 def main():
-    opt,args = getProgOptions()
-    assert opt.config_file is not None,"--config is mandatory argument"
-    config = ConfigParser.SafeConfigParser()
-    config.read(opt.config_file)
-    kw = dict(config.items("vicvb"))
-    galaxy_jbrowse(**kw).vicvb_to_jbrowse(**opt)
+    from argh import ArghParser
+    parser = ArghParser()
+    parser.add_commands([to_jbrowse])
+    parser.dispatch()
 

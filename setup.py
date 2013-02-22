@@ -37,7 +37,7 @@ setup(
         #creation of scripts
         'console_scripts': [
             _entry_point('postinstall','postinstall:main'),
-            _entry_point('galaxy_tool','Converters:main'),
+            _entry_point('galaxy_tool','converters:main'),
             ]
         },
     # metadata for upload to PyPI
