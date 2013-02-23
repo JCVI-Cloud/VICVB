@@ -1,0 +1,37 @@
+<tool id="vigor_browser" name="Browse viral annotation output">
+    <description>Use JBrowse genome browser to display the
+        output of VIGOR
+    </description>
+    <command>vicvb_galaxy_tool to-jbrowse vicvb.json $genome_name  $annot_inp_fasta $annot_out $jbrowse_html ${jbrowse_html.extra_files_path}</command>
+    <inputs>
+        <param name="annot_out" format="vigor.tgz" 
+            type="data"
+            label="tar.gz archive with VIGOR output" 
+            help="These files are created by VIGOR pipeline"/>
+        <param name="annot_inp_fasta" format="fasta" 
+            type="data"
+            label="FASTA sequence of the genome" 
+            help="Sequence that was used as input to VIGOR"/>
+        <param name="genome_name" format="string" 
+            type="text" size="30"
+            label="Name of the genome" 
+            help="This will be the displayed name"/>
+    <inputs>
+	<outputs>
+        <data name="jbrowse_html" format="html" 
+            label="JBrowse Visualization"
+            help="Click view icon to launch the genome browser"/>
+	</outputs>
+	<help>
+
+**What it does**
+Shows the output of JCVI Viral Annotation Pipeline (VIGOR)
+in JBrowse genome browser within the current Galaxy session.
+
+-----	
+Another way to use the underlying Python script is to call it
+directly from some other tool script in order to generate
+a JBrowse dataset.
+
+	</help>
+</tool>

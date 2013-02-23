@@ -2,6 +2,7 @@ from subprocess import check_call
 import logging
 import config
 import util
+import os, glob
 
 log = logging.getLogger(__name__)
 
@@ -59,7 +60,7 @@ class galaxy_jbrowse(object):
     def vicvb_to_genbank(self,
             genome_name,
             annot_inp_fasta,
-            annot_out_dir,
+            annot_out,
             tbl_conv_dir=None,
             tbl_to_asn_tpl=None
             ):
@@ -67,6 +68,20 @@ class galaxy_jbrowse(object):
             tbl_conv_dir = os.getcwd()
         else:
             os.makedirs(tbl_conv_dir)
+        if os.path.isdir(annot_out):
+            annot_out_dir = annot_out
+        else:
+            #if not a dir, annot_out is presumed to be tarball [compressed]
+            #of a single directory (not a tar-bomb)
+            annot_out_dir = os.path.join(tbl_conv_dir,"annot_out")
+            os.makedirs(annot_out_dir)
+            util.tar_extractall_safe(annot_out,annot_out_dir)
+            subdirs = list(os.listdir(annot_out_dir))
+            assert len(subdirs) == 1,\
+                    "Expected a single directory in archive %s" \
+                    % (annot_out,)
+            annot_out_dir = os.path.join(annot_out_dir,subdirs[0])
+
         annot_out_root = os.path.join(annot_out_dir,genome_name)
         shutil.copy(
                 annot_inp_fasta,
@@ -104,7 +119,7 @@ class galaxy_jbrowse(object):
     def vicvb_to_jbrowse(self,
             genome_name,
             annot_inp_fasta,
-            annot_out_dir,
+            annot_out,
             index_html,
             data_dir_out
             ):
@@ -112,7 +127,7 @@ class galaxy_jbrowse(object):
             res_gb = self.vicvb_to_genbank(
                 genome_name=genome_name,
                 annot_inp_fasta=annot_inp_fasta,
-                annot_out_dir=annot_out_dir
+                annot_out=annot_out
                 )
             
             res_gff = self.genbank_to_gff(genbank_file=res_gb["genbank_file"])
@@ -128,7 +143,7 @@ class galaxy_jbrowse(object):
 def to_jbrowse(conf,
         genome_name,
         annot_inp_fasta,
-        annot_out_dir,
+        annot_out,
         index_html,
         data_dir_out):
     args = locals()

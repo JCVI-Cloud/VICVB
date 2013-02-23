@@ -1,0 +1,4 @@
+<datatype extension="vigor.tgz" type="galaxy.datatypes.binary:Binary"
+    mimetype="application/octet-stream" display_in_upload="true" 
+    subclass="True"/>
+
