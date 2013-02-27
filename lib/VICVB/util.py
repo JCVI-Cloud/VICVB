@@ -1,4 +1,4 @@
-import os
+import os, tarfile
 
 def abspath(path):
     if not os.path.isabs(path):
@@ -19,6 +19,22 @@ def urljoin_path(base,url):
         if not base.endswith("/"):
             base += "/"
     return urlparse.urljoin(base,url)
+
+def add_to_path(dir,var="PATH",prepend=False,env=None):
+    """Add a directory to the PATH environment variable"""
+    dir = str(dir)
+    if env is None:
+        env = os.environ
+    if var in env:
+        if prepend:
+            first = dir
+            second = env[var]
+        else:
+            first = env[var]
+            second = dir
+        env[var] = os.pathsep.join((first,second))
+    else:
+        env[var] = dir
 
 def tar_check_safety(tar):
     
@@ -59,4 +75,12 @@ def tar_extractall_safe(archive,path=None):
     finally:
         tar.close()
 
+
+def tar_extractall_safe_single_dir(archive,path=None):
+    tar_extractall_safe(archive=archive,path=path)
+    subdirs = list(os.listdir(path))
+    assert len(subdirs) == 1,\
+            "Expected a single directory in archive %s" \
+            % (path,)
+    return os.path.join(path,subdirs[0])
 

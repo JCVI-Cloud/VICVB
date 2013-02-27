@@ -3,7 +3,8 @@ from distribute_setup import use_setuptools
 use_setuptools()
 
 from setuptools import setup, find_packages
-import os
+from setuptools.command.test import test as TestCommand
+import os,sys
 
 vendor_src = "vendor"
 bcbb_src = os.path.join(vendor_src,"bcbb")
@@ -14,6 +15,22 @@ script_pref = "vicvb_"
 def _entry_point(script_name,pkg_path):
     return script_pref+script_name+' = '+main_pkg_name+'.'+pkg_path
 
+class PyTest(TestCommand):
+    """Integrates pytest as per http://pytest.org/latest/goodpractises.html?highlight=egg
+    so that you can run 'python setup.py test'"""
+    def finalize_options(self):
+        TestCommand.finalize_options(self)
+        test_dir = os.path.join("lib",main_pkg_name,"test")
+        self.test_args = ["--verbose",test_dir]
+        self.test_suite = test_dir
+        print self.test_args
+        print self.test_suite
+    def run_tests(self):
+        #import here, cause outside the eggs aren't loaded
+        import pytest
+        errno = pytest.main(self.test_args)
+        sys.exit(errno)
+
 setup(
     name = main_pkg_name,
     version = "0.2",
@@ -23,6 +40,9 @@ setup(
     #argh is used to auto-generate command line argument 
     #processing in entry points
     install_requires = ['argh','argcomplete','biopython','bcbio_gff'],
+	#this will install pytest module
+    tests_require=['pytest'],
+    cmdclass = {'test': PyTest},
     #http://pythonhosted.org/distribute/easy_install.html#editing-and-viewing-source-packages
     #from pkg_resources import load_entry_point
     #load_entry_point('distribute==0.6.35', 'console_scripts', 'easy_install')(argv=sys.argv[1:])

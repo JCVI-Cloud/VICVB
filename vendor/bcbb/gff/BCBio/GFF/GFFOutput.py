@@ -77,6 +77,10 @@ class GFF3Writer:
         except TypeError:
             recs = [recs]
         for rec in recs:
+            #import pdb
+            #pdb.set_trace()
+            if not rec.id:
+                rec.id = rec.name
             self._write_rec(rec, out_handle)
             self._write_annotations(rec.annotations, rec.id, len(rec.seq), out_handle)
             for sf in rec.features:
@@ -135,6 +139,8 @@ class GFF3Writer:
                 quals["Parent"] = []
             quals["Parent"].append(parent_id)
         quals = id_handler.update_quals(quals, len(feature.sub_features) > 0)
+        if not "Name" in quals:
+            quals["Name"] = quals.get("product",[]) + quals.get("gene",[])
         if feature.type:
             ftype = feature.type
         else:

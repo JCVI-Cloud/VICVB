@@ -2,7 +2,7 @@ from subprocess import check_call
 import logging
 import config
 import util
-import os, glob
+import os, glob, shutil, tempfile
 
 log = logging.getLogger(__name__)
 
@@ -17,7 +17,7 @@ class galaxy_jbrowse(object):
             tbl_to_asn_exe=None):
         #the line below should be the first in
         #order to get all parameters into a dict
-        self.opt = locals.copy()
+        self.opt = locals().copy()
         self.opt.pop("self")
 
     def gff_to_jbrowse(self,
@@ -42,20 +42,30 @@ class galaxy_jbrowse(object):
         env = None
         if self.opt.get("jbrowse_bin_dir",None):
             env = os.environ.copy()
-            env["PATH"] = ":".join(self.opt["jbrowse_bin_dir"],env.get("PATH",""))
-
+            env["PATH"] = os.pathsep.join((self.opt["jbrowse_bin_dir"],env.get("PATH","")))
+            util.add_to_path(self.opt["jbrowse_bin_dir"],
+                    prepend=True,
+                    env=env)
+        if not os.path.exists(data_dir_out):
+            os.makedirs(data_dir_out)
+        fasta_file = util.abspath(fasta_file)
         check_call(["prepare-refseqs.pl","--fasta",fasta_file],
                 cwd=data_dir_out,
                 env=env)
+        gff_file = util.abspath(gff_file)
         check_call(["flatfile-to-json.pl","--gff",gff_file,
-            "--trackLabel",track_label],
+            "--trackLabel",track_label,
+            ],
             cwd=data_dir_out,
+            env=env)
+        check_call(["generate-names.pl","--out",
+            os.path.join(data_dir_out,"data")],
             env=env)
 
     def genbank_to_gff(self,
             genbank_file):
         check_call(["genbank_to_gff.py",genbank_file])
-        dict(gff_file=os.path.join(genbank_file.splitext()[0]+".gff"))
+        return dict(gff_file=os.path.join(os.path.splitext(genbank_file)[0]+".gff"))
 
     def vicvb_to_genbank(self,
             genome_name,
@@ -65,7 +75,9 @@ class galaxy_jbrowse(object):
             tbl_to_asn_tpl=None
             ):
         if tbl_conv_dir is None:
-            tbl_conv_dir = os.getcwd()
+            tbl_conv_dir = tempfile.mkdtemp(prefix="tbl_conv.",
+                    suffix=".tmp",
+                    dir=os.getcwd())
         else:
             os.makedirs(tbl_conv_dir)
         if os.path.isdir(annot_out):
@@ -75,12 +87,8 @@ class galaxy_jbrowse(object):
             #of a single directory (not a tar-bomb)
             annot_out_dir = os.path.join(tbl_conv_dir,"annot_out")
             os.makedirs(annot_out_dir)
-            util.tar_extractall_safe(annot_out,annot_out_dir)
-            subdirs = list(os.listdir(annot_out_dir))
-            assert len(subdirs) == 1,\
-                    "Expected a single directory in archive %s" \
-                    % (annot_out,)
-            annot_out_dir = os.path.join(annot_out_dir,subdirs[0])
+            annot_out_dir = util.tar_extractall_safe_single_dir(
+                    annot_out,annot_out_dir)
 
         annot_out_root = os.path.join(annot_out_dir,genome_name)
         shutil.copy(
@@ -123,7 +131,10 @@ class galaxy_jbrowse(object):
             index_html,
             data_dir_out
             ):
-            
+            annot_inp_fasta = util.abspath(annot_inp_fasta)
+            annot_out = util.abspath(annot_out)
+            index_html = util.abspath(index_html)
+            data_dir_out = util.abspath(data_dir_out)
             res_gb = self.vicvb_to_genbank(
                 genome_name=genome_name,
                 annot_inp_fasta=annot_inp_fasta,
