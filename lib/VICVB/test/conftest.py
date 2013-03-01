@@ -13,8 +13,11 @@ def get_test_data_dir(request):
                     "Archive should contain a directory 'test_data'"
 
 @pytest.fixture(scope="session")
-def goto_cleandir(request):
-    newpath = tempfile.mkdtemp(prefix="run.test.",suffix=".tmp",dir=os.getcwd())
+def goto_cleandir_test(request):
+    root_test_dir = "test_run"
+    if not os.path.exists(root_test_dir):
+        os.makedirs(root_test_dir)
+    newpath = tempfile.mkdtemp(prefix="run.test.",suffix=".tmp",dir=root_test_dir)
     os.chdir(newpath)
 
 @pytest.fixture(scope="session")

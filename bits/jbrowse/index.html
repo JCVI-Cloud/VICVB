@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content = "text/html; charset=utf-8">
+    <title>JBrowse</title>
+    <link rel="stylesheet" type="text/css" href="genome.css"></link>
+    <script type="text/javascript" src="src/dojo/dojo.js" data-dojo-config="deps: ['JBrowse'], async: 1"></script>
+
+    <script type="text/javascript">
+        window.onerror=function(msg){
+            document.body.setAttribute("JSError",msg);
+        }
+
+        var JBrowse;
+        require({ baseUrl: 'src', packages: ['JBrowse','dojo','dijit','dojox','jszlib'] },
+            [ 'JBrowse/Browser', 'dojo/io-query' ],
+            function (Browser,ioQuery) {
+                   var queryParams = ioQuery.queryToObject( window.location.search.slice(1) );
+                   var dataRoot = queryParams.jbrowse_data || 'data';
+                   JBrowse = new Browser({
+                                           containerID: "GenomeBrowser",
+                                           refSeqs: dataRoot + "/seq/refSeqs.json",
+                                           baseUrl: dataRoot+'/',
+                                           include: [
+                                             'jbrowse_conf.json',
+                                             dataRoot + "/trackList.json"
+                                           ],
+                                           nameUrl: dataRoot + "/names/root.json",
+                                           defaultTracks: "DNA,gene,mRNA,noncodingRNA",
+                                           queryParams: queryParams,
+                                           location: queryParams.loc,
+                                           forceTracks: queryParams.tracks,
+                                           show_nav: queryParams.nav,
+                                           show_tracklist: queryParams.tracklist,
+                                           show_overview: queryParams.overview,
+                                           config_list: queryParams.config
+                                       });
+        });
+    </script>
+
+  </head>
+
+  <body>
+    <div id="GenomeBrowser" style="height: 100%; width: 100%; padding: 0; border: 0;"></div>
+    <div style="display: none">JBrowseDefaultMainPage</div>
+  </body>
+</html>

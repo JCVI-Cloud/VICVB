@@ -122,6 +122,11 @@ class GFF3Writer:
             parent_id=None):
         """Write a feature with location information.
         """
+        def _select_first_qual_non_empty(quals,keys):
+            for key in keys:
+                if quals.get(key,None):
+                    return key,quals[key]
+            return None,list()
         if feature.strand == 1:
             strand = '+'
         elif feature.strand == -1:
@@ -139,8 +144,9 @@ class GFF3Writer:
                 quals["Parent"] = []
             quals["Parent"].append(parent_id)
         quals = id_handler.update_quals(quals, len(feature.sub_features) > 0)
-        if not "Name" in quals:
-            quals["Name"] = quals.get("product",[]) + quals.get("gene",[])
+        if not quals.get("Name",[]):
+            quals["Name"] = _select_first_qual_non_empty(quals,("product","gene","organism"))[1]
+
         if feature.type:
             ftype = feature.type
         else:

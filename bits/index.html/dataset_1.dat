@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Redirect</title>
+</HEAD>
+<BODY onload="window.location = '/static/jbrowse/index.html?jbrowse_data='+document.getElementById('at_dataset_extra_files').href;">
+<a id="at_dataset_extra_files" href="data1">JBrowse</a>
+</BODY>
+</HTML>

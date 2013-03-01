@@ -1,0 +1,18 @@
+How to run upstream VIGOR to generate testing data:
+
+ /local/devel/ANNOTATION/VIRAL/VIGOR/new/VIGOR3.pl –i fastafile –o outputprefix
+
+ 
+
+ -h provides extensive help message
+
+  
+
+  Development directory is /usr/local/scratch/VIRAL/VIGOR/<jeff's login>/devel
+
+  There are subdirectories for each organism, there are many fasta files in these directories
+
+  GCV   hantavirus  hpiv1  MMP  MSL   rabies   RSV  rubella  VAR   YFV
+
+  FLU  HADV  HRV    MPV  NORV  RTV  VEEV 
+

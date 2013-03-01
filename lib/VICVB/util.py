@@ -1,4 +1,4 @@
-import os, tarfile
+import os, tarfile, json
 
 def abspath(path):
     if not os.path.isabs(path):
@@ -19,6 +19,13 @@ def urljoin_path(base,url):
         if not base.endswith("/"):
             base += "/"
     return urlparse.urljoin(base,url)
+
+def to_url_params(params):
+    """You might have to pass OrderedDict if the order of parameters
+    is important. Alternatively, urllib.quote_plus can be applied
+    directly to a string."""
+    import urllib
+    return urllib.urlencode(params)
 
 def add_to_path(dir,var="PATH",prepend=False,env=None):
     """Add a directory to the PATH environment variable"""
@@ -84,3 +91,13 @@ def tar_extractall_safe_single_dir(archive,path=None):
             % (path,)
     return os.path.join(path,subdirs[0])
 
+def load_config_json(config_file):
+    if os.path.exists(config_file):
+        with open(config_file,'r') as f:
+            return json.load(f)
+    else:
+        return {}
+
+def save_config_json(config,config_file):
+    with open(config_file,'w') as f:
+        json.dump(config,f)

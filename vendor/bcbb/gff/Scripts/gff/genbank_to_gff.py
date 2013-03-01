@@ -12,10 +12,15 @@ from Bio import Seq
 
 from BCBio import GFF
 
-def main(gb_file):
+def main(gb_file,include_fasta=None):
     out_file = "%s.gff" % os.path.splitext(gb_file)[0]
+    inc_fasta = False
+    if include_fasta is not None:
+        if include_fasta.lower() in ("true","yes","1"):
+            inc_fasta = True
+        
     with open(out_file, "w") as out_handle:
-        GFF.write(SeqIO.parse(gb_file, "genbank"), out_handle)
+        GFF.write(SeqIO.parse(gb_file, "genbank"), out_handle, inc_fasta)
 
 if __name__ == "__main__":
     main(*sys.argv[1:])

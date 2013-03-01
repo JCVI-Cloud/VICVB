@@ -2,7 +2,7 @@
     <HEAD>
     <TITLE>Redirecting to JBrowse</TITLE>
     </HEAD>
-    <BODY onload="window.location = '{jbrowse_url}/index.html?jbrowse_data='+document.getElementById('at_dataset_extra_files').href;">
-    <a id="at_dataset_extra_files" href="data">JBrowse</a>
+    <BODY onload="window.location = '{jbrowse_url}/index.html?jbrowse_data='+document.getElementById('at_dataset_extra_files').href+'&{jbrowse_url_params}';">
+        <a id="at_dataset_extra_files" href={jbrowse_data_subdir}>JBrowse</a>
     </BODY>
     </HTML>

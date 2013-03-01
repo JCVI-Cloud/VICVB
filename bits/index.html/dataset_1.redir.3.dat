@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Redirect</title>
+<!-- <meta http-equiv="REFRESH" content="0;url=index.html"> //-->
+</HEAD>
+<BODY>
+<!-- <a target="jbrowse_page" href="index.html">JBrowse</a> //-->
+<a href="index.html?jbrowse_data=data1">JBrowse</a>
+</BODY>
+</HTML>

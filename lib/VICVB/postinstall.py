@@ -43,11 +43,11 @@ def install_jbrowse(install_dir,
     for line in fileinput.input(pjoin(install_home,"index.html"),inplace=True):
         #Galaxy Web server intercepts 'data' in URL params, we need to use another name
         print line.replace('queryParams.data','queryParams.jbrowse_data'),
-    conf = config.load_config_json(conf_file)
+    conf = util.load_config_json(conf_file)
     conf["jbrowse_bin_dir"] = util.abspath(pjoin(install_home,"bin"))
     conf["jbrowse_url"] = util.urljoin_path(root_url,
             os.path.basename(install_home))
-    config.save_config_json(conf,conf_file)
+    util.save_config_json(conf,conf_file)
     return conf
     
 def install_to_galaxy(galaxy_home,galaxy_root_url="/"):

@@ -13,58 +13,90 @@ class galaxy_jbrowse(object):
             jbrowse_url,
             jbrowse_bin_dir,
             jbrowse_galaxy_index_html_tpl=None,
+            jbrowse_data_subdir="data",
             tbl_to_asn_tpl=None,
             tbl_to_asn_exe=None):
         #the line below should be the first in
         #order to get all parameters into a dict
         self.opt = locals().copy()
         self.opt.pop("self")
+        self.opt["jbrowse_bin_dir"] = util.abspath(self.opt["jbrowse_bin_dir"])
+        print self.opt
 
     def gff_to_jbrowse(self,
             fasta_file,
             gff_file,
             index_html,
             data_dir_out,
-            jbrowse_url=None,
-            track_label=None
+            jbrowse_url=None
             ):
+        opt = self.opt
         if jbrowse_url is None:
-            jbrowse_url = self.opt["jbrowse_url"]
-        if track_label is None:
-            track_label = os.path.splitext(os.path.basename(gff_file))[0]
-        _jbrowse_dataset_index_html = \
-                config.get_data_string(self.opt["jbrowse_galaxy_index_html_tpl"],
-                    "galaxy.index.html")
-        with open(index_html,"w") as f:
-            f.write(_jbrowse_dataset_index_html.\
-                format(jbrowse_url=jbrowse_url.rstrip("/")))
-
+            jbrowse_url = opt["jbrowse_url"]
         env = None
         if self.opt.get("jbrowse_bin_dir",None):
             env = os.environ.copy()
-            env["PATH"] = os.pathsep.join((self.opt["jbrowse_bin_dir"],env.get("PATH","")))
-            util.add_to_path(self.opt["jbrowse_bin_dir"],
+            util.add_to_path(opt["jbrowse_bin_dir"],
                     prepend=True,
                     env=env)
         if not os.path.exists(data_dir_out):
             os.makedirs(data_dir_out)
-        fasta_file = util.abspath(fasta_file)
-        check_call(["prepare-refseqs.pl","--fasta",fasta_file],
-                cwd=data_dir_out,
-                env=env)
         gff_file = util.abspath(gff_file)
-        check_call(["flatfile-to-json.pl","--gff",gff_file,
-            "--trackLabel",track_label,
+        fasta_file = util.abspath(fasta_file)
+        jbrowse_out_dir = os.path.join(data_dir_out,opt["jbrowse_data_subdir"])
+        check_call(["prepare-refseqs.pl","--gff",gff_file,"--out",jbrowse_out_dir],
+                env=env)
+        #@todo use biodb-to-json instead with flat file input, and accept config
+        #file as a parameter (provide a default one too). See volvox.json config
+        #in the distribution. Also add dropped_features param to load everything
+        #unique in field 3 of GFF and check that only dropped_features are missing
+        #from the config
+        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+            "--trackLabel","Genes",
+            "--cssClass","feature5",
+            "--type","gene",
+            "--autocomplete","all"
+            "--getLabel",
+            "--getType"
             ],
-            cwd=data_dir_out,
             env=env)
-        check_call(["generate-names.pl","--out",
-            os.path.join(data_dir_out,"data")],
+        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+            "--trackLabel","CDS",
+            "--cssClass","cds",
+            "--type","CDS",
+            "--type","mat_peptide",
+            "--autocomplete","all"
+            "--getLabel",
+            "--getType",
+            "--getSubs",
+            "--getPhase"
+            ],
             env=env)
+        check_call(["generate-names.pl","--out",jbrowse_out_dir],
+            env=env)
+
+        tracks_conf_file = os.path.join(jbrowse_out_dir,"trackList.json")
+        tracks_conf = util.load_config_json(tracks_conf_file)
+        tracks_conf["refSeqDropdown"] = True #show pull-down even for very many sequences
+        util.save_config_json(tracks_conf,tracks_conf_file)
+        #create index.html that redirects to JBrowse index.html with correct data param etc
+        _jbrowse_dataset_index_html = \
+                config.get_data_string(self.opt["jbrowse_galaxy_index_html_tpl"],
+                    "galaxy.index.html")
+        jbrowse_url_params = util.to_url_params(dict(
+            tracks=",".join(("DNA","Genes","CDS")),
+            tracklist=0
+            ))
+        with open(index_html,"w") as f:
+            f.write(_jbrowse_dataset_index_html.\
+                format(jbrowse_url=jbrowse_url.rstrip("/"),
+                    jbrowse_data_subdir=opt["jbrowse_data_subdir"],
+                    jbrowse_url_params=jbrowse_url_params))
+
 
     def genbank_to_gff(self,
             genbank_file):
-        check_call(["genbank_to_gff.py",genbank_file])
+        check_call(["genbank_to_gff.py",genbank_file,"True"])
         return dict(gff_file=os.path.join(os.path.splitext(genbank_file)[0]+".gff"))
 
     def vicvb_to_genbank(self,
@@ -115,7 +147,7 @@ class galaxy_jbrowse(object):
         
         check_call([tbl_to_asn_exe,
             "-p",tbl_conv_dir,
-            "-t",tbl_to_asn_tpl,
+            #"-t",tbl_to_asn_tpl,
             "-a","s",
             "-V","bv",
             "-n",genome_name])
@@ -159,7 +191,7 @@ def to_jbrowse(conf,
         data_dir_out):
     args = locals()
     args.pop("conf")
-    opt = config.load_config_json(conf)
+    opt = util.load_config_json(conf)
     return galaxy_jbrowse(**opt).vicvb_to_jbrowse(**args)
 
 def main():
