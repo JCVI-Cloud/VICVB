@@ -95,8 +95,12 @@ class galaxy_jbrowse(object):
 
     def genbank_to_gff(self,
             genbank_file):
-        check_call(["genbank_to_gff.py",genbank_file,"True"])
-        return dict(gff_file=os.path.join(os.path.splitext(genbank_file)[0]+".gff"))
+        from Bio import SeqIO
+        from BCBio import GFF
+        gff_file = "%s.gff" % (os.path.splitext(genbank_file)[0],)
+        with open(gff_file, "w") as out_handle:
+            GFF.write(SeqIO.parse(genbank_file, "genbank"), out_handle, include_fasta=True)
+        return dict(gff_file=gff_file)
 
     def vicvb_to_genbank(self,
             genome_name,

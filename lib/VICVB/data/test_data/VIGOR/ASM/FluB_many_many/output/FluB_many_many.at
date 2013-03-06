@@ -1,0 +1,3018 @@
+AB036860	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB036860	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB036861	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB036861	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB036862	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB036862	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB036866	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AB036866	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036867	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB036867	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036868	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AB036868	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036869	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AB036869	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036870	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AB036870	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036871	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AB036871	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036872	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB036872	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036873	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB036873	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB036874	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AB036875	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AB036876	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AB036877	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB036877	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB036878	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB036878	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB036879	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB036879	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB059248	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB059248	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB059249	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB059249	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB059256	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB059256	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB059257	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB059257	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120240	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AB120240	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120242	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120242	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120243	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120243	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120244	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120244	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120245	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120245	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120246	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AB120246	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120248	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120248	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120249	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120249	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120250	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AB120250	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120254	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AB120254	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120255	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120255	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120256	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120256	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120257	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AB120257	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AB120258	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120258	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120259	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120259	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120260	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120260	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120261	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120261	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120262	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120262	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120264	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120264	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120266	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120266	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120267	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120267	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120272	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120272	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120273	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120273	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120274	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120274	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120275	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AB120275	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AB120432	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120432	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120434	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120434	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120435	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120435	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120436	flub_db	1..849	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120436	flub_db	1..33,692..1027	BAD29851	NS2	nonstructural protein 2	OK	
+AB120437	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120437	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120438	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120438	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120440	flub_db	1..849	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120440	flub_db	1..33,692..1027	BAD29851	NS2	nonstructural protein 2	OK	
+AB120441	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120441	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120443	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120443	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120446	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120446	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120447	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120447	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120448	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120448	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB120449	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AB120449	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AB297489	flub_db	<1..1653	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	30
+AF005736	flub_db	13..2271	ABL76263.1	PB1	polymerase PB1	OK	
+AF005737	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+AF005738	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+AF005739	flub_db	5..1687	NP_056661.1	NP	nucleoprotein	OK	
+AF077348	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+AF077348	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+AF100357	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100358	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100359	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100360	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100361	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100362	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100363	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100364	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100365	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100366	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100367	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100368	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100369	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100370	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100371	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100372	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100373	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF100374	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100374	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AF100375	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100375	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AF100376	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100376	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AF100377	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100377	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AF100378	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100378	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100379	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100379	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100380	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100380	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100381	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100381	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100382	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100382	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AF100383	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100383	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100384	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100384	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100385	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100385	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100386	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100386	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100387	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100387	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100388	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100388	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100389	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100389	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100390	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100390	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100391	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AF100391	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AF100393	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100393	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100394	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100394	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100395	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100395	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100396	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100396	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100397	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100397	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100398	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100398	flub_db	1..33,689..1024	BAD29851	NS2	nonstructural protein 2	OK	
+AF100399	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100399	flub_db	1..33,689..1024	BAD29851	NS2	nonstructural protein 2	OK	
+AF100400	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100400	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100401	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100401	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100402	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100402	flub_db	1..33,689..1024	BAD29851	NS2	nonstructural protein 2	OK	
+AF100403	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100403	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100404	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100404	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100405	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100405	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100407	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100407	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF100409	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AF100409	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AF101973	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101974	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101975	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101976	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101977	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101978	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101979	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101980	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101981	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101982	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101983	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101984	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101985	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101986	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101987	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101988	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101989	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101990	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AF101991	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101992	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101993	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101994	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101995	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101996	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101997	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101998	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF101999	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102000	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102001	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102002	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102003	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102004	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102005	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102006	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102007	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF102008	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102009	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102010	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102011	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102012	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102013	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102014	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102015	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102016	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102017	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102018	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102019	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102020	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102021	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102022	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102023	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF102024	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF129889	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AF129891	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AF129893	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AF129895	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AF129896	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AF129898	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AF129899	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AF129900	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AF129902	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AF129905	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AF129906	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AF129907	flub_db	1..300	ABL76378.1	NB	NB protein	OK	
+AF129907	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129908	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF129908	flub_db	8..>1405	ABL76379.1	NA	putative neuraminidase, N-terminal	T3	3
+AF129909	flub_db	1..300	ABL76994.1	NB	NB protein	OK	
+AF129909	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129910	flub_db	1..300	ABL76994.1	NB	NB protein	OK	
+AF129910	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129911	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF129911	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF129912	flub_db	1..300	ABL76961.1	NB	NB protein	OK	
+AF129912	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129913	flub_db	1..300	ABL76961.1	NB	NB protein	OK	
+AF129913	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129914	flub_db	1..300	ABL76961.1	NB	NB protein	OK	
+AF129914	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129916	flub_db	1..300	ABL76994.1	NB	NB protein	OK	
+AF129916	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129917	flub_db	1..300	ABL76961.1	NB	NB protein	OK	
+AF129917	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129918	flub_db	1..300	ABL76994.1	NB	NB protein	OK	
+AF129918	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129919	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF129919	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF129920	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF129920	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF129921	flub_db	1..300	ABL76961.1	NB	NB protein	OK	
+AF129921	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AF129922	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF129922	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF134906	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF134906	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF134907	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AF134907	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF134908	flub_db	1..303	ABL77324.1	NB	NB protein	OK	
+AF134908	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF134909	flub_db	1..303	ABL77324.1	NB	NB protein	OK	
+AF134909	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF134910	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AF134910	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AF134911	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AF134914	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AF170569	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AF170570	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AF170571	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AF170572	flub_db	15..2327	NP_056658.1	PB2	polymerase PB2	OK	
+AF387492	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AF387493	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AF387496	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AF387498	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AF387500	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AF387502	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AF387504	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AJ249278	flub_db	3..302	ABL76378.1	NB	NB protein	OK	
+AJ249278	flub_db	10..1407	ABL76379.1	NA	neuraminidase	OK	
+AJ249279	flub_db	<1..1708	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	51
+AJ781192	flub_db	10..>2319	NP_056658.1	PB2	putative polymerase PB2, N-terminal	T3	3
+AJ781194	flub_db	10..>2319	NP_056658.1	PB2	putative polymerase PB2, N-terminal	T3	3
+AJ781197	flub_db	10..>2319	NP_056658.1	PB2	putative polymerase PB2, N-terminal	T3	3
+AJ781202	flub_db	10..>2313	NP_056658.1	PB2	putative polymerase PB2, N-terminal	T3	9
+AJ781206	flub_db	7..>2313	NP_056658.1	PB2	putative polymerase PB2, N-terminal	T3	6
+AJ783375	flub_db	<1..732	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	15
+AJ783375	flub_db	732..1061	AAP22105.1	BM2	BM2 protein	OK	
+AJ783376	flub_db	<1..735	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	12
+AJ783376	flub_db	735..1064	AAP22105.1	BM2	BM2 protein	OK	
+AJ783377	flub_db	<1..735	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	12
+AJ783377	flub_db	735..1064	AAP22105.1	BM2	BM2 protein	OK	
+AJ783381	flub_db	<1..723	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	24
+AJ783381	flub_db	723..1052	AAP22105.1	BM2	BM2 protein	OK	
+AJ783382	flub_db	<1..729	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	18
+AJ783382	flub_db	729..1058	AAP22105.1	BM2	BM2 protein	OK	
+AJ783383	flub_db	<1..729	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	18
+AJ783383	flub_db	729..1058	AAP22105.1	BM2	BM2 protein	OK	
+AJ783385	flub_db	<1..717	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	30
+AJ783385	flub_db	717..1046	AAP22105.1	BM2	BM2 protein	OK	
+AJ783386	flub_db	<1..729	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	18
+AJ783386	flub_db	729..1058	AAP22105.1	BM2	BM2 protein	OK	
+AJ783387	flub_db	<1..717	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	30
+AJ783387	flub_db	717..1046	AAP22105.1	BM2	BM2 protein	OK	
+AJ783388	flub_db	<1..717	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	30
+AJ783388	flub_db	717..1046	AAP22105.1	BM2	BM2 protein	OK	
+AJ783389	flub_db	<1..717	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	30
+AJ783389	flub_db	717..1046	AAP22105.1	BM2	BM2 protein	OK	
+AJ783391	flub_db	<1..735	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	12
+AJ783391	flub_db	735..1064	AAP22105.1	BM2	BM2 protein	OK	
+AJ783392	flub_db	<1..729	NP_056664.1	M1	putative matrix protein M1, C-terminal	T5	18
+AJ783392	flub_db	729..1058	AAP22105.1	BM2	BM2 protein	OK	
+AJ784062	flub_db	<1..1662	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	21
+AJ784063	flub_db	<1..1662	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	21
+AJ784064	flub_db	<1..1662	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	21
+AJ784065	flub_db	<1..1668	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	15
+AJ784066	flub_db	<1..1668	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	15
+AJ784067	flub_db	<1..1668	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	15
+AJ784068	flub_db	<1..1668	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	15
+AJ784069	flub_db	<1..1665	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	18
+AJ784070	flub_db	<1..1671	NP_056661.1	NP	putative nucleoprotein, C-terminal	T5	12
+AJ784087	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AJ784087	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AJ784088	flub_db	10..312	ABL76961.1	NB	NB protein	OK	
+AJ784088	flub_db	17..1417	ABL76379.1	NA	neuraminidase	OK	
+AJ784089	flub_db	42..344	ABL76378.1	NB	NB protein	OK	
+AJ784089	flub_db	49..1449	ABL76379.1	NA	neuraminidase	OK	
+AJ784090	flub_db	10..312	ABL76378.1	NB	NB protein	OK	
+AJ784090	flub_db	17..1417	ABL76379.1	NA	neuraminidase	OK	
+AJ784091	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+AJ784091	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+AJ784093	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+AJ784093	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+AJ784094	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+AJ784094	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+AJ784095	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+AJ784095	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+AJ784096	flub_db	43..345	ABL76378.1	NB	NB protein	OK	
+AJ784096	flub_db	50..1450	ABL76379.1	NA	neuraminidase	OK	
+AJ784099	flub_db	39..341	ABL76378.1	NB	NB protein	OK	
+AJ784099	flub_db	46..1446	ABL76379.1	NA	neuraminidase	OK	
+AJ784100	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+AJ784100	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+AX399742	flub_db	24..146,145..2337	NP_056658.1	PB2	polymerase PB2	FS	146..145,+3=>+1
+AX399743	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+AX399744	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+AX399745	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AX399746	flub_db	61..1743	NP_056661.1	NP	nucleoprotein	OK	
+AX399747	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+AX399747	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+AX399748	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+AX399748	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+AX399749	flub_db	44..889	ABL76887.1	NS1	non-structural protein 1	OK	
+AX399749	flub_db	44..76,732..1067	AAA43751.1	NS2	non-structural protein 2	OK	
+AY044169	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY044170	flub_db	28..873	ABL76887.1	NS1	non-structural protein 1	OK	
+AY044170	flub_db	28..60,716..1051	AAA43751.1	NS2	non-structural protein 2	OK	
+AY044171	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY044171	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY044172	flub_db	27..329	ABL76961.1	NB	NB protein	OK	
+AY044172	flub_db	34..1434	ABL76379.1	NA	neuraminidase	OK	
+AY139050	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139050	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139051	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139051	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139052	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139052	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139053	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139053	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139054	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139054	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139055	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139055	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139056	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139056	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139057	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139057	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139058	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139058	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139059	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139059	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139060	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139060	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139061	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139061	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139062	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139062	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139063	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139063	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139064	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139064	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139065	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139065	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139066	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139066	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139067	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139067	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139068	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139068	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139069	flub_db	1..303	AAO38877.1	NB	NB protein	OK	
+AY139069	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139070	flub_db	1..312	ABL84343.1	NB	NB protein	OK	
+AY139070	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139071	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139071	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139072	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139072	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139073	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139073	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139074	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139074	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139075	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139075	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139076	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139076	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139077	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139077	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139078	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139078	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139079	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY139079	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139080	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139080	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY139081	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY139081	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY191498	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AY191499	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+AY191499	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+AY191500	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+AY191500	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+AY191501	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+AY191501	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+AY191502	flub_db	45..347	AAO38877.1	NB	NB protein	OK	
+AY191502	flub_db	52..1452	ABL76379.1	NA	neuraminidase	OK	
+AY260941	flub_db	16..762	NP_056664.1	M1	matrix protein M1	OK	
+AY260941	flub_db	762..1091	AAP22105.1	BM2	BM2 protein	OK	
+AY260942	flub_db	20..2278	ABL76263.1	PB1	polymerase PB1	OK	
+AY260943	flub_db	16..2328	NP_056658.1	PB2	polymerase PB2	OK	
+AY260944	flub_db	12..2192	NP_056659.1	PA	polymerase PA	OK	
+AY260945	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AY260946	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY260947	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AY260947	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY260948	flub_db	29..874	ABL76887.1	NS1	non-structural protein 1	OK	
+AY260948	flub_db	29..61,717..>1043	AAA43751.1	NS2	putative non-structural protein 2, N-terminal	T3	9
+AY504599	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+AY504600	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+AY504601	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+AY504602	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AY504603	flub_db	61..1743	NP_056661.1	NP	nucleoprotein	OK	
+AY504604	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+AY504604	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+AY504605	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+AY504605	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+AY504606	flub_db	43..888	ABL76887.1	NS1	non-structural protein 1	OK	
+AY504606	flub_db	43..75,731..1066	AAA43751.1	NS2	non-structural protein 2	OK	
+AY504607	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+AY504608	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+AY504609	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+AY504610	flub_db	34..1791	ABL76430.1	HA	hemagglutinin	OK	
+AY504611	flub_db	61..1743	NP_056661.1	NP	nucleoprotein	OK	
+AY504612	flub_db	46..348	AAO38877.1	NB	NB protein	OK	
+AY504612	flub_db	53..1453	ABL76379.1	NA	neuraminidase	OK	
+AY504613	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+AY504613	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+AY504614	flub_db	44..889	ABL76887.1	NS1	non-structural protein 1	OK	
+AY504614	flub_db	44..76,732..1067	AAA43751.1	NS2	non-structural protein 2	OK	
+AY504615	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+AY504619	flub_db	61..1743	NP_056661.1	NP	nucleoprotein	OK	
+AY504623	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+AY504624	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+AY581945	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AY581946	flub_db	1..1752	ABL76430.1	HA	hemagglutinin	OK	
+AY581947	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581948	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581949	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581950	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581951	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581952	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581953	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581954	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581955	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581956	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581958	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581959	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581960	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581961	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581962	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581963	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581964	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581965	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581966	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581967	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+AY581968	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581969	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581970	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+AY581971	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581971	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AY581972	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581972	flub_db	747..1079	ABN51186.1	BM2	BM2 protein	OK	
+AY581973	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581973	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AY581974	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581974	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+AY581977	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581977	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581978	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581978	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581979	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581979	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581980	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581980	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581981	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581981	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581982	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581982	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581983	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+AY581983	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+AY581984	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581984	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581985	flub_db	1..300	ABL76378.1	NB	NB protein	OK	
+AY581985	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AY581986	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY581986	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581987	flub_db	1..300	ABL76994.1	NB	NB protein	OK	
+AY581987	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+AY581988	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581988	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581989	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581989	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581990	flub_db	1..303	ABL77324.1	NB	NB protein	OK	
+AY581990	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581991	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581991	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581992	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581992	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581993	flub_db	1..303	ABL77324.1	NB	NB protein	OK	
+AY581993	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581994	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581994	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581995	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581995	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581996	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581996	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581997	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581997	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581998	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581998	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY581999	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY581999	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582000	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582000	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582001	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582001	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582002	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY582002	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582003	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY582003	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582005	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY582005	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582006	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY582006	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582008	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582008	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582009	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY582009	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582010	flub_db	1..303	ABL84343.1	NB	NB protein	OK	
+AY582010	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582011	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+AY582011	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582012	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582012	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582013	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582013	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582014	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582014	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582015	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582015	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582016	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582016	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582017	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582017	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582018	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY582018	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY582019	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582020	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582021	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582022	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582023	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582025	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582026	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582027	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582028	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582029	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582030	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582031	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+AY582032	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582033	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582034	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582035	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582036	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582037	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582039	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582040	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582041	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582042	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582043	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582044	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582045	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+AY582046	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582047	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582048	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582049	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582052	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582053	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582054	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582055	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582056	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582057	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582058	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+AY582059	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582060	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582061	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582062	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582065	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582066	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582067	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582068	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582069	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582070	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582071	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+AY582072	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582072	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582073	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582073	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582074	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582074	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582075	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582075	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582078	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582078	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582079	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582079	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582080	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582080	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582081	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582081	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582082	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582082	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582083	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582083	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY582084	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+AY582084	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+AY687392	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+AY687393	flub_db	8..2266	ABL76263.1	PB1	polymerase PB1	OK	
+AY687394	flub_db	6..2318	NP_056658.1	PB2	polymerase PB2	OK	
+AY687395	flub_db	2..850	ABL76887.1	NS1	non-structural protein 1	OK	
+AY687395	flub_db	2..34,693..1028	BAD29851	NS2	nonstructural protein 2	OK	
+AY687396	flub_db	2..304	ABL76378.1	NB	NB protein	OK	
+AY687396	flub_db	9..1409	ABL76379.1	NA	neuraminidase	OK	
+AY687397	flub_db	2..1756	ABL76430.1	HA	hemagglutinin	OK	
+AY687398	flub_db	5..1687	NP_056661.1	NP	nucleoprotein	OK	
+AY687399	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+AY687399	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+AY744290	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744290	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744291	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744291	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744292	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744292	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744293	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744293	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744295	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744295	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744296	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744296	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744297	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744297	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744298	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744298	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744299	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744299	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744301	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744301	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY744302	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+AY744302	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+AY880066	flub_db	<1..284	ABL76378.1	NB	putative NB protein, C-terminal	T5	21
+AY880066	flub_db	<1..1389	ABL76379.1	NA	putative neuraminidase, C-terminal	T5	12
+AY880067	flub_db	<1..284	ABL76378.1	NB	putative NB protein, C-terminal	T5	21
+AY880067	flub_db	<1..1389	ABL76379.1	NA	putative neuraminidase, C-terminal	T5	12
+AY880068	flub_db	<1..275	ABL76378.1	NB	putative NB protein, C-terminal	T5	30
+AY880068	flub_db	<1..1380	ABL76379.1	NA	putative neuraminidase, C-terminal	T5	21
+AY880072	flub_db	<1..284	ABL76378.1	NB	putative NB protein, C-terminal	T5	21
+AY880072	flub_db	<1..1389	ABL76379.1	NA	putative neuraminidase, C-terminal	T5	12
+CQ903172	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+CQ903173	flub_db	21..2279	NP_056657.1	PB1	polymerase PB1	OK	
+CQ903174	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+CQ903175	flub_db	34..1788	NP_056660.1	HA	hemagglutinin	OK	
+CQ903176	flub_db	47..349	NP_056662.1	NB	NB protein	OK	
+CQ903176	flub_db	54..1454	NP_056663.1	NA	neuraminidase	OK	
+CQ903177	flub_db	58..1740	NP_056661.1	NP	nucleoprotein	OK	
+CQ903178	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+CQ903178	flub_db	771..1100	YP_419283.1	BM2	BM2 protein	OK	
+CQ903179	flub_db	43..888	NP_056666.1	NS1	non-structural protein 1	OK	
+CQ903179	flub_db	43..75,731..1066	NP_056665.1	NS2	non-structural protein 2	OK	
+CY015288	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+CY015288	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+CY015364	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+CY015364	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+CY015375	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+CY015375	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+CY015383	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+CY015383	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+CY015389	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+CY015389	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+CY015392	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+CY015392	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+CY017997	flub_db	19..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY017998	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018023	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018024	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018024	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018025	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY018025	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018026	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018027	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018027	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018028	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018029	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018030	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018031	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018032	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018032	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018033	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY018033	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018034	flub_db	31..1713	NP_056661.1	NP	nucleoprotein	OK	
+CY018035	flub_db	16..861	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018035	flub_db	16..48,704..1039	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018036	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018037	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018038	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018040	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018040	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018043	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018043	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018044	flub_db	14..2194	NP_056659.1	PA	polymerase PA	OK	
+CY018045	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018046	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018047	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018047	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018048	flub_db	33..335	ABL84343.1	NB	NB protein	OK	
+CY018048	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018049	flub_db	34..1716	NP_056661.1	NP	nucleoprotein	OK	
+CY018050	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018050	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018051	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018052	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018053	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018054	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018054	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018055	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018055	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018056	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018057	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018057	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018058	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018059	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018060	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018061	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018062	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018062	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018063	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY018063	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018064	flub_db	30..1712	NP_056661.1	NP	nucleoprotein	OK	
+CY018065	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018065	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018066	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018067	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018068	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018069	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018070	flub_db	3..749	NP_056664.1	M1	matrix protein M1	OK	
+CY018070	flub_db	749..1078	AAP22105.1	BM2	BM2 protein	OK	
+CY018071	flub_db	33..335	ABL84343.1	NB	NB protein	OK	
+CY018071	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018072	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018073	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018073	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018074	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018075	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018076	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018077	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018078	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018078	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018079	flub_db	33..335	ABL84343.1	NB	NB protein	OK	
+CY018079	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018080	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018081	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018081	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018082	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018083	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018084	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018085	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018086	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018086	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018087	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY018087	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018088	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018089	flub_db	5..850	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018089	flub_db	5..37,693..1028	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018090	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018091	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018092	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018093	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY018094	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018094	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018096	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018097	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018097	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018098	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018099	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY018100	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018101	flub_db	15..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018102	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018102	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018103	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018103	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018104	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018105	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018105	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018106	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018107	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018108	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018109	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018110	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018110	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018111	flub_db	21..326	ABL76378.1	NB	NB protein	OK	
+CY018111	flub_db	28..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018112	flub_db	22..1704	NP_056661.1	NP	nucleoprotein	OK	
+CY018113	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018113	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018114	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018115	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018116	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018117	flub_db	13..1767	ABL76430.1	HA	hemagglutinin	OK	
+CY018118	flub_db	3..749	NP_056664.1	M1	matrix protein M1	OK	
+CY018118	flub_db	749..1078	AAP22105.1	BM2	BM2 protein	OK	
+CY018119	flub_db	20..322	ABL76378.1	NB	NB protein	OK	
+CY018119	flub_db	27..1427	ABL76379.1	NA	neuraminidase	OK	
+CY018120	flub_db	10..1692	NP_056661.1	NP	nucleoprotein	OK	
+CY018121	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018121	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018122	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018123	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018124	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018125	flub_db	11..1765	ABL76430.1	HA	hemagglutinin	OK	
+CY018126	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018126	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018127	flub_db	24..146,146..325	ABL76378.1	NB	NB protein	FS	146..146,+3=>+2
+CY018127	flub_db	31..144,144..1430	ABL76379.1	NA	neuraminidase	FS	144..144,+1=>+3
+CY018128	flub_db	12..1694	NP_056661.1	NP	nucleoprotein	OK	
+CY018129	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018129	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018130	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY018131	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018132	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018133	flub_db	15..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018134	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018134	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018135	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018135	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018136	flub_db	28..1710	NP_056661.1	NP	nucleoprotein	OK	
+CY018137	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018137	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018138	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018139	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018140	flub_db	10..2322	NP_056658.1	PB2	polymerase PB2	OK	
+CY018141	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018142	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018142	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018143	flub_db	22..324	ABL76378.1	NB	NB protein	OK	
+CY018143	flub_db	29..1429	ABL76379.1	NA	neuraminidase	OK	
+CY018144	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018145	flub_db	16..861	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018145	flub_db	16..48,704..1039	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018146	flub_db	14..2194	NP_056659.1	PA	polymerase PA	OK	
+CY018147	flub_db	5..2263	ABL76263.1	PB1	polymerase PB1	OK	
+CY018148	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018149	flub_db	6..1760	ABL76430.1	HA	hemagglutinin	OK	
+CY018150	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018150	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018151	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018151	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018152	flub_db	6..1688	NP_056661.1	NP	nucleoprotein	OK	
+CY018153	flub_db	5..850	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018153	flub_db	5..37,693..1028	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018154	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018155	flub_db	7..2265	ABL76263.1	PB1	polymerase PB1	OK	
+CY018156	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018157	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY018158	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018158	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018159	flub_db	21..323	ABL76378.1	NB	NB protein	OK	
+CY018159	flub_db	28..1428	ABL76379.1	NA	neuraminidase	OK	
+CY018160	flub_db	4..1686	NP_056661.1	NP	nucleoprotein	OK	
+CY018161	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018161	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018162	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018163	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018164	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018165	flub_db	14..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018166	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018166	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018167	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018167	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018168	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018169	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018169	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018170	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018171	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018172	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018173	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018174	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018174	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018175	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018175	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018176	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018177	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018177	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018178	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018179	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018180	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018181	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY018182	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018182	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018183	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018183	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018184	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018185	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018185	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018186	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018187	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018188	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018189	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018190	flub_db	3..749	NP_056664.1	M1	matrix protein M1	OK	
+CY018190	flub_db	749..1078	AAP22105.1	BM2	BM2 protein	OK	
+CY018191	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY018191	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018192	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018193	flub_db	29..874	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018193	flub_db	29..61,717..1052	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018194	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018195	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018196	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018197	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018198	flub_db	8..754	NP_056664.1	M1	matrix protein M1	OK	
+CY018198	flub_db	754..1083	AAP22105.1	BM2	BM2 protein	OK	
+CY018199	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018199	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018200	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018201	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018201	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018202	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018203	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018204	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018205	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018206	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018206	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018207	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018207	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018208	flub_db	43..1725	NP_056661.1	NP	nucleoprotein	OK	
+CY018209	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018209	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018210	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018211	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018212	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018213	flub_db	14..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018215	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018215	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018216	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018217	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018217	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018219	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018220	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018221	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018222	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018222	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018223	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018223	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018224	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018225	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018225	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018227	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018228	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018229	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018230	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018230	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018232	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018235	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018237	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018238	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018238	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018239	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018239	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018240	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY018241	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018241	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018243	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018244	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018245	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018247	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018247	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018248	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018249	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018249	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018250	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018251	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018252	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018253	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018255	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY018255	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018256	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018258	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018259	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018262	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018262	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018263	flub_db	26..328	ABL76378.1	NB	NB protein	OK	
+CY018263	flub_db	33..1433	ABL76379.1	NA	neuraminidase	OK	
+CY018264	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018266	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018267	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018268	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018269	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018270	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018270	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018271	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018271	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018272	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018274	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018275	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018276	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018277	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018278	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018278	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018279	flub_db	23..325	ABL76378.1	NB	NB protein	OK	
+CY018279	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018280	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018282	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018283	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018284	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018285	flub_db	19..1776	ABL76430.1	HA	hemagglutinin	OK	
+CY018286	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018286	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018287	flub_db	32..334	ABL76378.1	NB	NB protein	OK	
+CY018287	flub_db	39..1439	ABL76379.1	NA	neuraminidase	OK	
+CY018288	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018289	flub_db	29..874	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018289	flub_db	29..61,717..1052	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018290	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018291	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018292	flub_db	7..2319	NP_056658.1	PB2	polymerase PB2	OK	
+CY018293	flub_db	19..1776	ABL76430.1	HA	hemagglutinin	OK	
+CY018294	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018294	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018295	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018295	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018296	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY018297	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018297	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018298	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018299	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018300	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018301	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018302	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018302	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018303	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018303	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018304	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY018305	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018305	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018306	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018307	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018308	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018309	flub_db	16..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY018310	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018310	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018311	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018311	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018312	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY018313	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018313	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018314	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018315	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018316	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018317	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018319	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018319	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018320	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018321	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018321	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018322	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018323	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018324	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018325	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018326	flub_db	3..749	NP_056664.1	M1	matrix protein M1	OK	
+CY018326	flub_db	749..1078	AAP22105.1	BM2	BM2 protein	OK	
+CY018327	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018327	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018328	flub_db	33..1715	NP_056661.1	NP	nucleoprotein	OK	
+CY018329	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018329	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018330	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018331	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018332	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018333	flub_db	15..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018334	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY018334	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY018335	flub_db	22..324	ABL76378.1	NB	NB protein	OK	
+CY018335	flub_db	29..1429	ABL76379.1	NA	neuraminidase	OK	
+CY018336	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018337	flub_db	17..862	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018337	flub_db	17..49,705..1040	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018338	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018339	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018340	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018341	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018342	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018342	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018343	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018343	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018344	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018345	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018345	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018346	flub_db	12..2192	NP_056659.1	PA	polymerase PA	OK	
+CY018347	flub_db	<1..2255	ABL76263.1	PB1	putative polymerase PB1, C-terminal	T5	6
+CY018348	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018349	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018350	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY018350	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY018351	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018351	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018352	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018353	flub_db	19..864	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018353	flub_db	19..51,707..1042	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018354	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018355	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018356	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018357	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY018358	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY018358	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY018359	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018359	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018360	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018361	flub_db	24..869	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018361	flub_db	24..56,712..1047	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018362	flub_db	12..2192	NP_056659.1	PA	polymerase PA	OK	
+CY018363	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018364	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018365	flub_db	16..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY018366	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018366	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018367	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018367	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018368	flub_db	16..1698	NP_056661.1	NP	nucleoprotein	OK	
+CY018369	flub_db	5..850	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018369	flub_db	5..37,693..1028	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018370	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018371	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018372	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018373	flub_db	17..1774	ABL76430.1	HA	hemagglutinin	OK	
+CY018374	flub_db	3..749	NP_056664.1	M1	matrix protein M1	OK	
+CY018374	flub_db	749..1078	AAP22105.1	BM2	BM2 protein	OK	
+CY018375	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018375	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018376	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018377	flub_db	2..847	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018377	flub_db	2..34,690..1025	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018378	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018379	flub_db	<1..2252	ABL76263.1	PB1	putative polymerase PB1, C-terminal	T5	9
+CY018380	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018381	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018382	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018382	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018383	flub_db	21..323	ABL76378.1	NB	NB protein	OK	
+CY018383	flub_db	28..1428	ABL76379.1	NA	neuraminidase	OK	
+CY018384	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018385	flub_db	14..859	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018385	flub_db	14..46,702..1037	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018386	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018387	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018388	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018389	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018390	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018390	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018391	flub_db	19..321	ABL76378.1	NB	NB protein	OK	
+CY018391	flub_db	26..1426	ABL76379.1	NA	neuraminidase	OK	
+CY018392	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018393	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018393	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018394	flub_db	10..2190	NP_056659.1	PA	polymerase PA	OK	
+CY018395	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018396	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018397	flub_db	13..1767	ABL76430.1	HA	hemagglutinin	OK	
+CY018398	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018398	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018399	flub_db	25..327	ABL84343.1	NB	NB protein	OK	
+CY018399	flub_db	32..1432	ABL76379.1	NA	neuraminidase	OK	
+CY018400	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018401	flub_db	23..868	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018401	flub_db	23..55,711..1046	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018402	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018403	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018404	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018405	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018406	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018406	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018407	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY018407	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018408	flub_db	30..1712	NP_056661.1	NP	nucleoprotein	OK	
+CY018409	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018409	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018410	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY018411	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018412	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018413	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY018414	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY018414	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY018415	flub_db	5..307	ABL84343.1	NB	NB protein	OK	
+CY018415	flub_db	12..1412	ABL76379.1	NA	neuraminidase	OK	
+CY018416	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018417	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018417	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018418	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018419	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018420	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018421	flub_db	7..1761	ABL76430.1	HA	hemagglutinin	OK	
+CY018422	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY018422	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY018423	flub_db	25..327	ABL76378.1	NB	NB protein	OK	
+CY018423	flub_db	32..1432	ABL76379.1	NA	neuraminidase	OK	
+CY018424	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018425	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018425	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018426	flub_db	2..2182	NP_056659.1	PA	polymerase PA	OK	
+CY018427	flub_db	<1..2258	ABL76263.1	PB1	putative polymerase PB1, C-terminal	T5	3
+CY018428	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018429	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018430	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018430	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018431	flub_db	19..321	ABL76378.1	NB	NB protein	OK	
+CY018431	flub_db	26..1426	ABL76379.1	NA	neuraminidase	OK	
+CY018432	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018433	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018433	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018434	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018435	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY018436	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018437	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018438	flub_db	3..749	NP_056664.1	M1	matrix protein M1	OK	
+CY018438	flub_db	749..1078	AAP22105.1	BM2	BM2 protein	OK	
+CY018439	flub_db	24..335	ABL84343.1	NB	NB protein	OK	
+CY018439	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018440	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018441	flub_db	10..855	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018441	flub_db	10..42,698..1033	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018442	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018443	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY018444	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018445	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018446	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018446	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018447	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018447	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018448	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018449	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018449	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018450	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018451	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018452	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018453	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY018454	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY018454	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY018455	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018455	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018456	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018457	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018457	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018458	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018459	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018460	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018461	flub_db	14..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018462	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018462	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018463	flub_db	23..325	ABL76378.1	NB	NB protein	OK	
+CY018463	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018464	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018465	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018465	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018466	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018467	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018468	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018469	flub_db	13..1767	ABL76430.1	HA	hemagglutinin	OK	
+CY018470	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018470	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018471	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018471	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018472	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018473	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018473	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018474	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018475	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018476	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018477	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018478	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018478	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018479	flub_db	29..331	ABL76378.1	NB	NB protein	OK	
+CY018479	flub_db	36..1436	ABL76379.1	NA	neuraminidase	OK	
+CY018480	flub_db	41..1723	NP_056661.1	NP	nucleoprotein	OK	
+CY018481	flub_db	23..868	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018481	flub_db	23..55,711..1046	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018482	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018483	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018484	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018485	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018486	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018486	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018487	flub_db	31..333	ABL76378.1	NB	NB protein	OK	
+CY018487	flub_db	38..1438	ABL76379.1	NA	neuraminidase	OK	
+CY018488	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018489	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018489	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018490	flub_db	11..2191	NP_056659.1	PA	polymerase PA	OK	
+CY018491	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018492	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018493	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY018494	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018494	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018495	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018495	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018496	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018497	flub_db	15..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018497	flub_db	15..47,706..1041	BAD29851	NS2	nonstructural protein 2	OK	
+CY018498	flub_db	5..2185	NP_056659.1	PA	polymerase PA	OK	
+CY018499	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018500	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018501	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018502	flub_db	6..752	NP_056664.1	M1	matrix protein M1	OK	
+CY018502	flub_db	752..1081	AAP22105.1	BM2	BM2 protein	OK	
+CY018503	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018503	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018504	flub_db	36..1718	NP_056661.1	NP	nucleoprotein	OK	
+CY018505	flub_db	18..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018505	flub_db	18..50,709..1044	BAD29851	NS2	nonstructural protein 2	OK	
+CY018506	flub_db	3..2183	NP_056659.1	PA	polymerase PA	OK	
+CY018507	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018508	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018509	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY018510	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018510	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018511	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018511	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018512	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018513	flub_db	30..875	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018513	flub_db	30..62,718..1053	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018514	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018515	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018516	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018517	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY018518	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY018518	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY018519	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018519	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018520	flub_db	28..1710	NP_056661.1	NP	nucleoprotein	OK	
+CY018521	flub_db	11..856	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018521	flub_db	11..43,699..1034	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018522	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018523	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY018524	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018525	flub_db	17..1774	ABL76430.1	HA	hemagglutinin	OK	
+CY018526	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018526	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018527	flub_db	23..325	ABL76378.1	NB	NB protein	OK	
+CY018527	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018528	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018529	flub_db	27..872	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018529	flub_db	27..59,715..1050	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018530	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018531	flub_db	6..2264	ABL76263.1	PB1	polymerase PB1	OK	
+CY018532	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018533	flub_db	19..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY018534	flub_db	7..753	NP_056664.1	M1	matrix protein M1	OK	
+CY018534	flub_db	753..1082	AAP22105.1	BM2	BM2 protein	OK	
+CY018535	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018535	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018536	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018537	flub_db	27..872	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018537	flub_db	27..59,715..1050	BAD29851	NS2	nonstructural protein 2	OK	
+CY018538	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018539	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018540	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018541	flub_db	20..1774	ABL76430.1	HA	hemagglutinin	OK	
+CY018542	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018542	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018543	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY018543	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY018544	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018545	flub_db	28..873	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018545	flub_db	28..60,716..1051	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018546	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018547	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018548	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018549	flub_db	17..1774	ABL76430.1	HA	hemagglutinin	OK	
+CY018550	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018550	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018551	flub_db	24..326	ABL76961.1	NB	NB protein	OK	
+CY018551	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018552	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018553	flub_db	27..872	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018553	flub_db	27..59,715..1050	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018554	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018555	flub_db	6..2264	ABL76263.1	PB1	polymerase PB1	OK	
+CY018556	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018557	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018558	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018558	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018559	flub_db	31..333	ABL76961.1	NB	NB protein	OK	
+CY018559	flub_db	38..1438	ABL76379.1	NA	neuraminidase	OK	
+CY018560	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018561	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018561	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018562	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018563	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY018564	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018566	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018566	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018567	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018567	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018568	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018569	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018569	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018570	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018571	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018572	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018573	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018574	flub_db	5..751	NP_056664.1	M1	matrix protein M1	OK	
+CY018574	flub_db	751..1080	ABL76993.1	BM2	BM2 protein	OK	
+CY018575	flub_db	13..312	ABL76994.1	NB	NB protein	OK	
+CY018575	flub_db	20..1417	ABL76379.1	NA	neuraminidase	OK	
+CY018576	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018577	flub_db	10..855	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018577	flub_db	10..42,698..1033	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018578	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018579	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018580	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018581	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018582	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018582	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018583	flub_db	13..315	ABL84343.1	NB	NB protein	OK	
+CY018583	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018584	flub_db	47..1729	NP_056661.1	NP	nucleoprotein	OK	
+CY018585	flub_db	12..857	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018585	flub_db	12..44,700..1035	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018586	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018587	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018588	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018589	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018590	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018590	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018591	flub_db	17..319	ABL76378.1	NB	NB protein	OK	
+CY018591	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+CY018592	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018593	flub_db	12..857	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018593	flub_db	12..44,700..1035	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018594	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018595	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018596	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018597	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018598	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018598	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018599	flub_db	22..324	ABL76378.1	NB	NB protein	OK	
+CY018599	flub_db	29..1429	ABL76379.1	NA	neuraminidase	OK	
+CY018600	flub_db	41..1723	NP_056661.1	NP	nucleoprotein	OK	
+CY018601	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018601	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018602	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018603	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018604	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018605	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018606	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018606	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018607	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018607	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018608	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018609	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018609	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018610	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018611	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018612	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018613	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018614	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018614	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018615	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018615	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018616	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018617	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018617	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018618	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018619	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018620	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018621	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018622	flub_db	8..754	NP_056664.1	M1	matrix protein M1	OK	
+CY018622	flub_db	754..1083	AAP22105.1	BM2	BM2 protein	OK	
+CY018623	flub_db	13..315	ABL84343.1	NB	NB protein	OK	
+CY018623	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018624	flub_db	28..1710	NP_056661.1	NP	nucleoprotein	OK	
+CY018625	flub_db	19..864	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018625	flub_db	19..51,707..1042	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018626	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018627	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018628	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY018629	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018630	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018630	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018631	flub_db	22..324	AAO38877.1	NB	NB protein	OK	
+CY018631	flub_db	29..1429	ABL76379.1	NA	neuraminidase	OK	
+CY018632	flub_db	42..1724	NP_056661.1	NP	nucleoprotein	OK	
+CY018633	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018633	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018634	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018635	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY018636	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018637	flub_db	16..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY018638	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018638	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018639	flub_db	32..334	AAO38877.1	NB	NB protein	OK	
+CY018639	flub_db	39..1439	ABL76379.1	NA	neuraminidase	OK	
+CY018640	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018641	flub_db	5..850	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018641	flub_db	5..37,693..1028	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018642	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018643	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018644	flub_db	7..2319	NP_056658.1	PB2	polymerase PB2	OK	
+CY018645	flub_db	16..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY018647	flub_db	23..325	AAO38877.1	NB	NB protein	OK	
+CY018647	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018648	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018649	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018649	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018651	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018652	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018653	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018654	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018654	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018655	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018655	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018656	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018657	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018657	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018658	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018659	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018660	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018661	flub_db	14..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018662	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018662	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018663	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018663	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018664	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018665	flub_db	12..857	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018665	flub_db	12..44,700..1035	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018666	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018667	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018668	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018669	flub_db	14..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018670	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018670	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018671	flub_db	23..325	AAO38877.1	NB	NB protein	OK	
+CY018671	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018672	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018673	flub_db	14..859	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018673	flub_db	14..46,702..1037	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018674	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018675	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018676	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018677	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018679	flub_db	23..325	AAO38877.1	NB	NB protein	OK	
+CY018679	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018680	flub_db	28..1710	NP_056661.1	NP	nucleoprotein	OK	
+CY018681	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018681	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018682	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018683	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018684	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018685	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018686	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018686	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018688	flub_db	33..1715	NP_056661.1	NP	nucleoprotein	OK	
+CY018689	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018689	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018690	flub_db	10..2190	NP_056659.1	PA	polymerase PA	OK	
+CY018691	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018692	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018693	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018694	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018694	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018695	flub_db	23..325	ABL76378.1	NB	NB protein	OK	
+CY018695	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018696	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018697	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018697	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018698	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018699	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY018700	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018701	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018702	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018702	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018703	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018703	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018704	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018705	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018705	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018706	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018707	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018708	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018709	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018710	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018710	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018711	flub_db	23..325	AAO38877.1	NB	NB protein	OK	
+CY018711	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018712	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018713	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018713	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018714	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018715	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018716	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018717	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018718	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018718	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018719	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018719	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018720	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018721	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018721	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018722	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018723	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018724	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018725	flub_db	18..1775	ABL76430.1	HA	hemagglutinin	OK	
+CY018726	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018726	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018727	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY018727	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY018728	flub_db	41..1723	NP_056661.1	NP	nucleoprotein	OK	
+CY018729	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018729	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018730	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018731	flub_db	6..2264	ABL76263.1	PB1	polymerase PB1	OK	
+CY018732	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018733	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018734	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018734	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018735	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018735	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018737	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018737	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018738	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY018739	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018740	flub_db	10..2322	NP_056658.1	PB2	polymerase PB2	OK	
+CY018741	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018742	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018742	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018743	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018743	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018744	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018745	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018745	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018746	flub_db	12..2192	NP_056659.1	PA	polymerase PA	OK	
+CY018747	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018748	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018749	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018750	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018750	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018751	flub_db	25..327	ABL76378.1	NB	NB protein	OK	
+CY018751	flub_db	32..1432	ABL76379.1	NA	neuraminidase	OK	
+CY018752	flub_db	34..1716	NP_056661.1	NP	nucleoprotein	OK	
+CY018753	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018753	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018754	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018755	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018756	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018757	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018758	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018758	flub_db	750..1079	ABL76993.1	BM2	BM2 protein	OK	
+CY018759	flub_db	29..331	ABL76961.1	NB	NB protein	OK	
+CY018759	flub_db	36..1436	ABL76379.1	NA	neuraminidase	OK	
+CY018760	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018761	flub_db	26..871	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018761	flub_db	26..58,714..1049	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018762	flub_db	13..2193	NP_056659.1	PA	polymerase PA	OK	
+CY018763	flub_db	8..2266	ABL76263.1	PB1	polymerase PB1	OK	
+CY018764	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018765	flub_db	18..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018766	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018766	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018767	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018767	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018768	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY018769	flub_db	10..855	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018769	flub_db	10..42,698..1033	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018770	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018771	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018772	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018773	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018774	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY018774	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY018775	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018775	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018776	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018777	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018777	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018778	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018779	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018780	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY018781	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018782	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY018782	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY018783	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018783	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018784	flub_db	32..1714	NP_056661.1	NP	nucleoprotein	OK	
+CY018785	flub_db	19..864	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018785	flub_db	19..51,707..1042	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018786	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018787	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018788	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018789	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018790	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018790	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018791	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018791	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018792	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY018793	flub_db	8..853	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018793	flub_db	8..40,696..1031	BAD29851	NS2	nonstructural protein 2	OK	
+CY018794	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018795	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018796	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018797	flub_db	14..1765	ABL76430.1	HA	hemagglutinin	OK	
+CY018798	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018798	flub_db	750..1079	ABN51186.1	BM2	BM2 protein	OK	
+CY018799	flub_db	13..312	ABL76994.1	NB	NB protein	OK	
+CY018799	flub_db	20..1417	ABL76379.1	NA	neuraminidase	OK	
+CY018800	flub_db	43..1725	NP_056661.1	NP	nucleoprotein	OK	
+CY018801	flub_db	18..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018801	flub_db	18..50,706..1041	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018802	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018803	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018804	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018805	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018806	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018806	flub_db	750..1079	ABL76993.1	BM2	BM2 protein	OK	
+CY018807	flub_db	24..323	ABL76961.1	NB	NB protein	OK	
+CY018807	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY018808	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018809	flub_db	22..867	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018809	flub_db	22..54,710..1045	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018810	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018811	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018812	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018813	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY018814	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018814	flub_db	750..1079	ABL76993.1	BM2	BM2 protein	OK	
+CY018815	flub_db	24..326	ABL77324.1	NB	NB protein	OK	
+CY018815	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018816	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY018817	flub_db	23..868	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018817	flub_db	23..55,711..1046	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018818	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018819	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018820	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018821	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018822	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018822	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018823	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018823	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018824	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018825	flub_db	8..853	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018825	flub_db	8..40,696..1031	BAD29851	NS2	nonstructural protein 2	OK	
+CY018826	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018827	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018828	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018829	flub_db	19..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY018830	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018830	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018831	flub_db	25..327	ABL76378.1	NB	NB protein	OK	
+CY018831	flub_db	32..1432	ABL76379.1	NA	neuraminidase	OK	
+CY018832	flub_db	47..1729	NP_056661.1	NP	nucleoprotein	OK	
+CY018833	flub_db	15..860	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018833	flub_db	15..47,703..1038	BAD29851	NS2	nonstructural protein 2	OK	
+CY018834	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018835	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY018836	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018837	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY018838	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018838	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018839	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018839	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018840	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY018841	flub_db	19..864	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018841	flub_db	19..51,707..1042	BAD29851	NS2	nonstructural protein 2	OK	
+CY018842	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018843	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018844	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018845	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY018846	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY018846	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY018847	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY018847	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY018848	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018849	flub_db	12..857	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018849	flub_db	12..44,700..1035	BAD29851	NS2	nonstructural protein 2	OK	
+CY018850	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018851	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018852	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018853	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY018854	flub_db	5..751	NP_056664.1	M1	matrix protein M1	OK	
+CY018854	flub_db	751..1080	ABL76993.1	BM2	BM2 protein	OK	
+CY018855	flub_db	24..323	ABL76994.1	NB	NB protein	OK	
+CY018855	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY018856	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY018857	flub_db	19..864	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018857	flub_db	19..51,707..1042	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018858	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018859	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY018860	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY018861	flub_db	17..1774	ABL76430.1	HA	hemagglutinin	OK	
+CY018862	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY018862	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY018863	flub_db	23..325	ABL76378.1	NB	NB protein	OK	
+CY018863	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY018864	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY018865	flub_db	24..869	ABL76887.1	NS1	non-structural protein 1	OK	
+CY018865	flub_db	24..56,712..1047	AAA43751.1	NS2	non-structural protein 2	OK	
+CY018866	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY018867	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY018868	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019437	flub_db	19..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY019438	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY019438	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY019439	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY019439	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019440	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY019441	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019441	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019443	flub_db	6..2264	ABL76263.1	PB1	polymerase PB1	OK	
+CY019444	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019445	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY019446	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY019446	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY019448	flub_db	24..1706	NP_056661.1	NP	nucleoprotein	OK	
+CY019449	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019449	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019452	flub_db	19..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY019453	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019453	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019454	flub_db	33..335	ABL84343.1	NB	NB protein	OK	
+CY019454	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY019455	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY019456	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019456	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019458	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY019460	flub_db	32..334	ABL84343.1	NB	NB protein	OK	
+CY019460	flub_db	39..1439	ABL76379.1	NA	neuraminidase	OK	
+CY019461	flub_db	15..1697	NP_056661.1	NP	nucleoprotein	OK	
+CY019462	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019462	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019463	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019464	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY019465	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019466	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019467	flub_db	7..753	NP_056664.1	M1	matrix protein M1	OK	
+CY019467	flub_db	753..1082	AAP22105.1	BM2	BM2 protein	OK	
+CY019468	flub_db	17..319	ABL76378.1	NB	NB protein	OK	
+CY019468	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+CY019469	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY019470	flub_db	29..874	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019470	flub_db	29..61,717..1052	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019471	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY019472	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019473	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019474	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019475	flub_db	8..754	NP_056664.1	M1	matrix protein M1	OK	
+CY019475	flub_db	754..1083	AAP22105.1	BM2	BM2 protein	OK	
+CY019476	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019477	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019477	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019478	flub_db	42..1724	NP_056661.1	NP	nucleoprotein	OK	
+CY019479	flub_db	11..856	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019479	flub_db	11..43,699..1034	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019480	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019482	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019483	flub_db	13..1767	ABL76430.1	HA	hemagglutinin	OK	
+CY019484	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY019484	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY019485	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019485	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019486	flub_db	37..1719	NP_056661.1	NP	nucleoprotein	OK	
+CY019487	flub_db	11..856	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019487	flub_db	11..43,699..1034	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019488	flub_db	2..2182	NP_056659.1	PA	polymerase PA	OK	
+CY019489	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY019490	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019491	flub_db	13..1767	ABL76430.1	HA	hemagglutinin	OK	
+CY019492	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019492	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019493	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY019493	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019494	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY019495	flub_db	30..875	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019495	flub_db	30..62,718..1053	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019496	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019497	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019498	flub_db	10..2322	NP_056658.1	PB2	polymerase PB2	OK	
+CY019499	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019500	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019500	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019501	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019501	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019502	flub_db	40..1722	NP_056661.1	NP	nucleoprotein	OK	
+CY019503	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019503	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019504	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019505	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019506	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019507	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019509	flub_db	27..329	AAO38877.1	NB	NB protein	OK	
+CY019509	flub_db	34..1434	ABL76379.1	NA	neuraminidase	OK	
+CY019510	flub_db	42..1724	NP_056661.1	NP	nucleoprotein	OK	
+CY019511	flub_db	27..872	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019511	flub_db	27..59,715..1050	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019512	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019513	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY019514	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019515	flub_db	15..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019516	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019516	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019517	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019517	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019518	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY019519	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019519	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019520	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019521	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019522	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019523	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019524	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019524	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019525	flub_db	26..328	ABL76378.1	NB	NB protein	OK	
+CY019525	flub_db	33..1433	ABL76379.1	NA	neuraminidase	OK	
+CY019526	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY019527	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019527	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019529	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY019530	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019531	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019532	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019532	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019533	flub_db	24..326	ABL84343.1	NB	NB protein	OK	
+CY019533	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019534	flub_db	47..1729	NP_056661.1	NP	nucleoprotein	OK	
+CY019535	flub_db	6..851	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019535	flub_db	6..38,694..1029	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019536	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019537	flub_db	8..2266	ABL76263.1	PB1	polymerase PB1	OK	
+CY019538	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019539	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019540	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019540	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019541	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019541	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019542	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY019543	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019543	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019544	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019545	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY019546	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019547	flub_db	13..1767	ABL76430.1	HA	hemagglutinin	OK	
+CY019548	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019548	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019549	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019549	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019550	flub_db	40..1722	NP_056661.1	NP	nucleoprotein	OK	
+CY019551	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019551	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019552	flub_db	4..2184	NP_056659.1	PA	polymerase PA	OK	
+CY019553	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY019554	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019555	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019558	flub_db	10..1692	NP_056661.1	NP	nucleoprotein	OK	
+CY019559	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019559	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019560	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019561	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019562	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019563	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY019564	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019564	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019565	flub_db	20..322	ABL76378.1	NB	NB protein	OK	
+CY019565	flub_db	27..1427	ABL76379.1	NA	neuraminidase	OK	
+CY019566	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY019567	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019567	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019568	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019569	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY019570	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019571	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019572	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019572	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019573	flub_db	24..326	ABL76961.1	NB	NB protein	OK	
+CY019573	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019574	flub_db	47..1729	NP_056661.1	NP	nucleoprotein	OK	
+CY019575	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019575	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019576	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019577	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY019578	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019579	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019580	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019580	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019581	flub_db	25..327	ABL76378.1	NB	NB protein	OK	
+CY019581	flub_db	32..1432	ABL76379.1	NA	neuraminidase	OK	
+CY019582	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY019583	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019583	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019584	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019585	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019586	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019587	flub_db	19..1776	ABL76430.1	HA	hemagglutinin	OK	
+CY019588	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY019588	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY019589	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019589	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019593	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY019594	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019595	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY019597	flub_db	29..331	AAO38877.1	NB	NB protein	OK	
+CY019597	flub_db	36..1436	ABL76379.1	NA	neuraminidase	OK	
+CY019599	flub_db	26..871	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019599	flub_db	26..58,714..1049	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019600	flub_db	13..2193	NP_056659.1	PA	polymerase PA	OK	
+CY019602	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY019603	flub_db	17..1774	ABL76430.1	HA	hemagglutinin	OK	
+CY019604	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019604	flub_db	750..1079	ABN51186.1	BM2	BM2 protein	OK	
+CY019605	flub_db	29..328	ABL76378.1	NB	NB protein	OK	
+CY019605	flub_db	36..1433	ABL76379.1	NA	neuraminidase	OK	
+CY019606	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY019607	flub_db	12..857	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019607	flub_db	12..44,700..1035	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019608	flub_db	13..2193	NP_056659.1	PA	polymerase PA	OK	
+CY019609	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019610	flub_db	7..2319	NP_056658.1	PB2	polymerase PB2	OK	
+CY019611	flub_db	14..1765	ABL76430.1	HA	hemagglutinin	OK	
+CY019612	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY019612	flub_db	747..1076	ABN51186.1	BM2	BM2 protein	OK	
+CY019613	flub_db	24..323	ABL76994.1	NB	NB protein	OK	
+CY019613	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY019614	flub_db	42..1724	NP_056661.1	NP	nucleoprotein	OK	
+CY019615	flub_db	28..873	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019615	flub_db	28..60,716..1051	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019616	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019617	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019618	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019619	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY019620	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY019620	flub_db	748..1077	ABN51186.1	BM2	BM2 protein	OK	
+CY019622	flub_db	47..1729	NP_056661.1	NP	nucleoprotein	OK	
+CY019623	flub_db	19..864	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019623	flub_db	19..51,707..1042	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019625	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY019626	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019627	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY019628	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019628	flub_db	750..1079	ABL76993.1	BM2	BM2 protein	OK	
+CY019629	flub_db	24..326	ABL76961.1	NB	NB protein	OK	
+CY019629	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019630	flub_db	28..1710	NP_056661.1	NP	nucleoprotein	OK	
+CY019631	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019631	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019632	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019633	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY019634	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019635	flub_db	17..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY019636	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019636	flub_db	750..1079	ABN51186.1	BM2	BM2 protein	OK	
+CY019637	flub_db	24..323	ABL76994.1	NB	NB protein	OK	
+CY019637	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY019638	flub_db	42..1724	NP_056661.1	NP	nucleoprotein	OK	
+CY019639	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019639	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019640	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019641	flub_db	<1..2256	ABL76263.1	PB1	putative polymerase PB1, C-terminal	T5	3
+CY019642	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019643	flub_db	7..1758	ABL76430.1	HA	hemagglutinin	OK	
+CY019644	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019644	flub_db	750..1082	ABN51186.1	BM2	BM2 protein	OK	
+CY019645	flub_db	13..312	ABL76994.1	NB	NB protein	OK	
+CY019645	flub_db	20..1417	ABL76379.1	NA	neuraminidase	OK	
+CY019646	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY019647	flub_db	18..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019647	flub_db	18..50,706..1041	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019648	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019649	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019650	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019651	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY019652	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019652	flub_db	750..1082	ABN51186.1	BM2	BM2 protein	OK	
+CY019653	flub_db	24..323	ABL76994.1	NB	NB protein	OK	
+CY019653	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY019654	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY019655	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019655	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019656	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019657	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY019658	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019659	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY019660	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY019660	flub_db	755..1084	ABL76993.1	BM2	BM2 protein	OK	
+CY019661	flub_db	24..323	ABL76961.1	NB	NB protein	OK	
+CY019661	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY019662	flub_db	42..1724	NP_056661.1	NP	nucleoprotein	OK	
+CY019663	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019663	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019664	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019665	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY019666	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019667	flub_db	17..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY019668	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY019668	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY019669	flub_db	24..323	ABL76994.1	NB	NB protein	OK	
+CY019669	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY019670	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY019671	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019671	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019672	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019673	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019674	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019675	flub_db	14..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY019676	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY019676	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY019677	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019677	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019678	flub_db	44..1726	NP_056661.1	NP	nucleoprotein	OK	
+CY019679	flub_db	19..867	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019679	flub_db	19..51,710..1045	BAD29851	NS2	nonstructural protein 2	OK	
+CY019680	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019681	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019682	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019684	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019684	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019685	flub_db	<1..298	ABL76378.1	NB	putative NB protein, C-terminal	T5	6
+CY019685	flub_db	3..1403	ABL76379.1	NA	neuraminidase	OK	
+CY019686	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY019688	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019689	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019690	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019691	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019692	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019692	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019693	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019693	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019694	flub_db	5..1687	NP_056661.1	NP	nucleoprotein	OK	
+CY019695	flub_db	8..853	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019695	flub_db	8..40,696..1031	BAD29851	NS2	nonstructural protein 2	OK	
+CY019696	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY019697	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019698	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019699	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY019700	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019700	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019701	flub_db	24..323	ABL76994.1	NB	NB protein	OK	
+CY019701	flub_db	31..1428	ABL76379.1	NA	neuraminidase	OK	
+CY019702	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY019703	flub_db	12..857	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019703	flub_db	12..44,700..1035	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019704	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019705	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019706	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019707	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019708	flub_db	5..751	NP_056664.1	M1	matrix protein M1	OK	
+CY019708	flub_db	751..1080	AAP22105.1	BM2	BM2 protein	OK	
+CY019709	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019709	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019710	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY019711	flub_db	11..856	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019711	flub_db	11..43,699..1034	BAD29851	NS2	nonstructural protein 2	OK	
+CY019712	flub_db	14..2194	NP_056659.1	PA	polymerase PA	OK	
+CY019713	flub_db	6..2264	ABL76263.1	PB1	polymerase PB1	OK	
+CY019714	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019715	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY019716	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019716	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019717	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019717	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019718	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY019719	flub_db	10..855	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019719	flub_db	10..42,698..1033	BAD29851	NS2	nonstructural protein 2	OK	
+CY019720	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019721	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY019722	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY019723	flub_db	17..1771	ABL76430.1	HA	hemagglutinin	OK	
+CY019724	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019724	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019725	flub_db	28..330	ABL76378.1	NB	NB protein	OK	
+CY019725	flub_db	35..1435	ABL76379.1	NA	neuraminidase	OK	
+CY019727	flub_db	24..869	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019727	flub_db	24..56,712..1047	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019729	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019730	flub_db	10..2322	NP_056658.1	PB2	polymerase PB2	OK	
+CY019731	flub_db	19..1776	ABL76430.1	HA	hemagglutinin	OK	
+CY019732	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019732	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY019733	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY019733	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY019734	flub_db	35..1717	NP_056661.1	NP	nucleoprotein	OK	
+CY019735	flub_db	26..871	ABL76887.1	NS1	non-structural protein 1	OK	
+CY019735	flub_db	26..58,714..1049	AAA43751.1	NS2	non-structural protein 2	OK	
+CY019736	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY019737	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY019738	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY019979	flub_db	18..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY019980	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY019980	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY022213	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY022214	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY022214	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY022215	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY022215	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY022216	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY022217	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY022217	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY022218	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY022219	flub_db	7..2265	ABL76263.1	PB1	polymerase PB1	OK	
+CY022220	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY022221	flub_db	19..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY022222	flub_db	5..751	NP_056664.1	M1	matrix protein M1	OK	
+CY022222	flub_db	751..1080	AAP22105.1	BM2	BM2 protein	OK	
+CY022223	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY022223	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY022224	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY022225	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY022225	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY022226	flub_db	13..2193	NP_056659.1	PA	polymerase PA	OK	
+CY022227	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY022228	flub_db	10..2322	NP_056658.1	PB2	polymerase PB2	OK	
+CY022229	flub_db	12..1763	ABL76430.1	HA	hemagglutinin	OK	
+CY022230	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY022230	flub_db	750..1079	ABL76993.1	BM2	BM2 protein	OK	
+CY022231	flub_db	30..329	ABL76994.1	NB	NB protein	OK	
+CY022231	flub_db	37..1434	ABL76379.1	NA	neuraminidase	OK	
+CY022232	flub_db	40..1722	NP_056661.1	NP	nucleoprotein	OK	
+CY022233	flub_db	18..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY022233	flub_db	18..50,706..1041	AAA43751.1	NS2	non-structural protein 2	OK	
+CY022234	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY022235	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY022236	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY022237	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY022238	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY022238	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY022239	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY022239	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY022240	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY022241	flub_db	18..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY022241	flub_db	18..50,706..1041	BAD29851	NS2	nonstructural protein 2	OK	
+CY022242	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY022243	flub_db	4..2262	ABL76263.1	PB1	polymerase PB1	OK	
+CY022244	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY022245	flub_db	16..1773	ABL76430.1	HA	hemagglutinin	OK	
+CY022246	flub_db	10..756	NP_056664.1	M1	matrix protein M1	OK	
+CY022246	flub_db	756..1085	AAP22105.1	BM2	BM2 protein	OK	
+CY022247	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY022247	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY022248	flub_db	46..1728	NP_056661.1	NP	nucleoprotein	OK	
+CY022249	flub_db	30..875	ABL76887.1	NS1	non-structural protein 1	OK	
+CY022249	flub_db	30..62,718..1053	AAA43751.1	NS2	non-structural protein 2	OK	
+CY022250	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY022251	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY022252	flub_db	3..2315	NP_056658.1	PB2	polymerase PB2	OK	
+CY030569	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030570	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY030570	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY030571	flub_db	21..323	ABL76378.1	NB	NB protein	OK	
+CY030571	flub_db	28..1428	ABL76379.1	NA	neuraminidase	OK	
+CY030572	flub_db	37..1719	NP_056661.1	NP	nucleoprotein	OK	
+CY030573	flub_db	6..851	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030573	flub_db	6..38,694..1029	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030574	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030575	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030576	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030577	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030578	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030578	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030579	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY030579	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY030580	flub_db	37..1719	NP_056661.1	NP	nucleoprotein	OK	
+CY030581	flub_db	18..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030581	flub_db	18..50,706..1041	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030582	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030583	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030584	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030585	flub_db	11..1765	ABL76430.1	HA	hemagglutinin	OK	
+CY030586	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY030586	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY030587	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030587	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030588	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030589	flub_db	24..869	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030589	flub_db	24..56,712..1047	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030590	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030591	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030592	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030593	flub_db	11..1768	ABL76430.1	HA	hemagglutinin	OK	
+CY030594	flub_db	7..753	NP_056664.1	M1	matrix protein M1	OK	
+CY030594	flub_db	753..1082	AAP22105.1	BM2	BM2 protein	OK	
+CY030595	flub_db	22..324	ABL76378.1	NB	NB protein	OK	
+CY030595	flub_db	29..1429	ABL76379.1	NA	neuraminidase	OK	
+CY030596	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030597	flub_db	17..862	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030597	flub_db	17..49,705..1040	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030598	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030599	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030600	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030601	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+CY030602	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY030602	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY030603	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+CY030603	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+CY030604	flub_db	19..1701	NP_056661.1	NP	nucleoprotein	OK	
+CY030605	flub_db	17..862	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030605	flub_db	17..49,705..1040	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030606	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY030607	flub_db	5..2263	ABL76263.1	PB1	polymerase PB1	OK	
+CY030608	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030609	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+CY030610	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY030610	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY030611	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+CY030611	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+CY030612	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030613	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030613	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030614	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY030615	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030616	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030617	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030618	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030618	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030619	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030619	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030620	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030621	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030621	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030622	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030623	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030624	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030625	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY030626	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030626	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030627	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030627	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030628	flub_db	45..1727	NP_056661.1	NP	nucleoprotein	OK	
+CY030629	flub_db	18..863	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030629	flub_db	18..50,706..1041	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030630	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030631	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030632	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030633	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030635	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030635	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030636	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030637	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030637	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030638	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030639	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030640	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030641	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY030642	flub_db	5..751	NP_056664.1	M1	matrix protein M1	OK	
+CY030642	flub_db	751..1080	AAP22105.1	BM2	BM2 protein	OK	
+CY030643	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030643	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030644	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030645	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030645	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030646	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030647	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030648	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030649	flub_db	2..1759	ABL76430.1	HA	hemagglutinin	OK	
+CY030650	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY030650	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY030651	flub_db	17..319	ABL76378.1	NB	NB protein	OK	
+CY030651	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+CY030652	flub_db	29..1711	NP_056661.1	NP	nucleoprotein	OK	
+CY030653	flub_db	17..862	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030653	flub_db	17..49,705..1040	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030654	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY030655	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030656	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030657	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY030658	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030658	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030659	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030659	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030660	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY030661	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030661	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030662	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030663	flub_db	5..2263	ABL76263.1	PB1	polymerase PB1	OK	
+CY030664	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030665	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY030667	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030667	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030668	flub_db	39..1721	NP_056661.1	NP	nucleoprotein	OK	
+CY030669	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030669	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030670	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030671	flub_db	5..2263	ABL76263.1	PB1	polymerase PB1	OK	
+CY030675	flub_db	16..318	ABL76378.1	NB	NB protein	OK	
+CY030675	flub_db	23..1423	ABL76379.1	NA	neuraminidase	OK	
+CY030677	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030677	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030678	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030679	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030680	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030681	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030682	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030682	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030683	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030683	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030684	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030685	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030685	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030686	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030687	flub_db	6..2264	ABL76263.1	PB1	polymerase PB1	OK	
+CY030688	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030689	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030690	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY030690	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY030691	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030691	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030692	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030693	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030693	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030694	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030696	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030697	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030698	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030698	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030699	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030699	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030700	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030701	flub_db	11..856	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030701	flub_db	11..43,699..1034	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030702	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030703	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030704	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030705	flub_db	8..1765	ABL76430.1	HA	hemagglutinin	OK	
+CY030706	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030706	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030707	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030707	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030708	flub_db	28..1710	NP_056661.1	NP	nucleoprotein	OK	
+CY030709	flub_db	27..872	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030709	flub_db	27..59,715..1050	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030710	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030711	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030712	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030713	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030714	flub_db	2..748	NP_056664.1	M1	matrix protein M1	OK	
+CY030714	flub_db	748..1077	AAP22105.1	BM2	BM2 protein	OK	
+CY030715	flub_db	23..325	ABL76378.1	NB	NB protein	OK	
+CY030715	flub_db	30..1430	ABL76379.1	NA	neuraminidase	OK	
+CY030716	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030717	flub_db	24..869	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030717	flub_db	24..56,712..1047	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030718	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030719	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030720	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030767	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030769	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+CY030769	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+CY030770	flub_db	43..1725	NP_056661.1	NP	nucleoprotein	OK	
+CY030771	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030771	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030772	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030773	flub_db	3..2261	ABL76263.1	PB1	polymerase PB1	OK	
+CY030774	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030775	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+CY030776	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030776	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030777	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030777	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030778	flub_db	15..1697	NP_056661.1	NP	nucleoprotein	OK	
+CY030779	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030779	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030780	flub_db	10..2190	NP_056659.1	PA	polymerase PA	OK	
+CY030781	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030782	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030783	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+CY030784	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+CY030784	flub_db	747..1076	AAP22105.1	BM2	BM2 protein	OK	
+CY030785	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+CY030785	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+CY030786	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030787	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030787	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030788	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY030789	flub_db	5..2263	ABL76263.1	PB1	polymerase PB1	OK	
+CY030790	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030791	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY030794	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030795	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030795	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030797	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030798	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030799	flub_db	13..1770	ABL76430.1	HA	hemagglutinin	OK	
+CY030800	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY030800	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY030801	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030801	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030802	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030803	flub_db	17..862	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030803	flub_db	17..49,705..1040	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030804	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030805	flub_db	7..2265	ABL76263.1	PB1	polymerase PB1	OK	
+CY030806	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030807	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030808	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY030808	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY030809	flub_db	27..329	ABL76378.1	NB	NB protein	OK	
+CY030809	flub_db	34..1434	ABL76379.1	NA	neuraminidase	OK	
+CY030810	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030811	flub_db	5..850	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030811	flub_db	5..37,693..1028	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030812	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030813	flub_db	5..2263	ABL76263.1	PB1	polymerase PB1	OK	
+CY030814	flub_db	<1..2306	NP_056658.1	PB2	putative polymerase PB2, C-terminal	T5	9
+CY030815	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY030816	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030816	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030817	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030817	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030818	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030819	flub_db	20..865	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030819	flub_db	20..52,708..1043	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030820	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030821	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030822	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030823	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY030824	flub_db	8..754	NP_056664.1	M1	matrix protein M1	OK	
+CY030824	flub_db	754..1083	AAP22105.1	BM2	BM2 protein	OK	
+CY030825	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030825	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030827	flub_db	30..875	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030827	flub_db	30..62,718..1053	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030829	flub_db	9..2267	ABL76263.1	PB1	polymerase PB1	OK	
+CY030830	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030831	flub_db	15..1772	ABL76430.1	HA	hemagglutinin	OK	
+CY030832	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030832	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030833	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030833	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030834	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030835	flub_db	21..866	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030835	flub_db	21..53,709..1044	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030836	flub_db	15..2195	NP_056659.1	PA	polymerase PA	OK	
+CY030837	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030838	flub_db	2..2314	NP_056658.1	PB2	polymerase PB2	OK	
+CY030839	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY030840	flub_db	9..755	NP_056664.1	M1	matrix protein M1	OK	
+CY030840	flub_db	755..1084	AAP22105.1	BM2	BM2 protein	OK	
+CY030841	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030841	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030842	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+CY030843	flub_db	5..850	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030843	flub_db	5..37,693..1028	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030844	flub_db	11..2191	NP_056659.1	PA	polymerase PA	OK	
+CY030845	flub_db	2..2260	ABL76263.1	PB1	polymerase PB1	OK	
+CY030846	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030847	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY030848	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030848	flub_db	747..1079	ACB06477.1	BM2	BM2 protein	OK	
+CY030849	flub_db	24..326	ABL76378.1	NB	NB protein	OK	
+CY030849	flub_db	31..1431	ABL76379.1	NA	neuraminidase	OK	
+CY030850	flub_db	13..1695	NP_056661.1	NP	nucleoprotein	OK	
+CY030851	flub_db	3..848	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030851	flub_db	3..35,691..1026	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030852	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY030853	flub_db	<1..2250	ABL76263.1	PB1	putative polymerase PB1, C-terminal	T5	9
+CY030854	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY030855	flub_db	12..1769	ABL76430.1	HA	hemagglutinin	OK	
+CY030856	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY030856	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY030857	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY030857	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY030858	flub_db	11..1693	NP_056661.1	NP	nucleoprotein	OK	
+CY030859	flub_db	24..869	ABL76887.1	NS1	non-structural protein 1	OK	
+CY030859	flub_db	24..56,712..1047	AAA43751.1	NS2	non-structural protein 2	OK	
+CY030860	flub_db	8..2188	NP_056659.1	PA	polymerase PA	OK	
+CY030861	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY030862	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY031779	flub_db	11..1765	ABL76430.1	HA	hemagglutinin	OK	
+CY031780	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY031780	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY031781	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY031781	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY031782	flub_db	26..1708	NP_056661.1	NP	nucleoprotein	OK	
+CY031783	flub_db	17..862	ABL76887.1	NS1	non-structural protein 1	OK	
+CY031783	flub_db	17..49,705..1040	AAA43751.1	NS2	non-structural protein 2	OK	
+CY031784	flub_db	9..2189	NP_056659.1	PA	polymerase PA	OK	
+CY031785	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY031786	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+CY031787	flub_db	12..1766	ABL76430.1	HA	hemagglutinin	OK	
+CY031788	flub_db	4..750	NP_056664.1	M1	matrix protein M1	OK	
+CY031788	flub_db	750..1079	AAP22105.1	BM2	BM2 protein	OK	
+CY031789	flub_db	13..315	ABL76378.1	NB	NB protein	OK	
+CY031789	flub_db	20..1420	ABL76379.1	NA	neuraminidase	OK	
+CY031790	flub_db	15..1697	NP_056661.1	NP	nucleoprotein	OK	
+CY031791	flub_db	4..849	ABL76887.1	NS1	non-structural protein 1	OK	
+CY031791	flub_db	4..36,692..1027	AAA43751.1	NS2	non-structural protein 2	OK	
+CY031792	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+CY031793	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+CY031794	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+D00004	flub_db	34..2292	NP_056657.1	PB1	polymerase PB1	ES	496..498
+D14543	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+D14543	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+D14855	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+D14855	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+DD230352	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+DD230353	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+DD230354	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+DD230355	flub_db	34..1791	ABL76430.1	HA	hemagglutinin	OK	
+DD230356	flub_db	59..1741	NP_056661.1	NP	nucleoprotein	OK	
+DD230357	flub_db	47..349	ABL76961.1	NB	NB protein	OK	
+DD230357	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+DD230359	flub_db	45..890	ABL76887.1	NS1	non-structural protein 1	OK	
+DD230359	flub_db	45..77,733..1068	AAA43751.1	NS2	non-structural protein 2	OK	
+DQ174087	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+DQ174087	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+DQ174088	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+DQ174088	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+DQ231544	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+DQ231544	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+DQ343796	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343796	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343797	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343797	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343799	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343799	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343801	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343801	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343803	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343803	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343809	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343809	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343811	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343811	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343815	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343815	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343817	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343817	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343819	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343819	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343820	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343820	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343821	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343821	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343822	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343822	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343823	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343823	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343824	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343824	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343826	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343826	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ343828	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+DQ343828	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+DQ508910	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+DQ508911	flub_db	1..2259	ABL76263.1	PB1	polymerase PB1	OK	
+DQ508912	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+DQ508913	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+DQ508914	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+DQ508915	flub_db	1..300	ABL76378.1	NB	NB protein	OK	
+DQ508915	flub_db	8..1405	ABL76379.1	NA	neuraminidase	OK	
+DQ508916	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+DQ508916	flub_db	747..1076	ABL76993.1	BM2	BM2 protein	OK	
+DQ508917	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+DQ508917	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+DQ508918	flub_db	1..2313	NP_056658.1	PB2	polymerase PB2	OK	
+DQ508919	flub_db	1..2259	NP_056657.1	PB1	polymerase PB1	OK	
+DQ508920	flub_db	1..2181	NP_056659.1	PA	polymerase PA	OK	
+DQ508922	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+DQ508923	flub_db	1..303	NP_056662.1	NB	NB protein	OK	
+DQ508923	flub_db	8..1408	NP_056663.1	NA	neuraminidase	OK	
+DQ508924	flub_db	1..747	NP_056664.1	M1	matrix protein M1	OK	
+DQ508924	flub_db	747..1076	YP_419283.1	BM2	BM2 protein	OK	
+DQ508925	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+DQ508925	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+DQ792894	flub_db	14..2326	NP_056658.1	PB2	polymerase PB2	OK	
+DQ792895	flub_db	15..2273	NP_056657.1	PB1	polymerase PB1	OK	
+DQ792896	flub_db	14..2194	NP_056659.1	PA	polymerase PA	OK	
+DQ792897	flub_db	14..1768	NP_056660.1	HA	hemagglutinin	OK	
+DQ792898	flub_db	47..1729	NP_056661.1	NP	nucleoprotein	OK	
+DQ792899	flub_db	36..338	NP_056662.1	NB	NB protein	OK	
+DQ792899	flub_db	43..1443	NP_056663.1	NA	neuraminidase	OK	
+DQ792900	flub_db	5..751	NP_056664.1	M1	matrix protein M1	OK	
+DQ792900	flub_db	751..1080	YP_419283.1	BM2	BM2 protein	OK	
+DQ792901	flub_db	23..868	NP_056666.1	NS1	non-structural protein 1	OK	
+DQ792901	flub_db	23..55,711..1046	NP_056665.1	NS2	non-structural protein 2	OK	
+DQ792902	flub_db	4..2316	NP_056658.1	PB2	polymerase PB2	OK	
+DQ792903	flub_db	1..2259	NP_056657.1	PB1	polymerase PB1	OK	
+DQ792904	flub_db	10..2190	NP_056659.1	PA	polymerase PA	OK	
+DQ792905	flub_db	14..1768	NP_056660.1	HA	hemagglutinin	OK	
+DQ792906	flub_db	38..1720	NP_056661.1	NP	nucleoprotein	OK	
+DQ792907	flub_db	27..329	NP_056662.1	NB	NB protein	OK	
+DQ792907	flub_db	34..1434	NP_056663.1	NA	neuraminidase	OK	
+DQ792909	flub_db	23..868	NP_056666.1	NS1	non-structural protein 1	OK	
+DQ792909	flub_db	23..55,711..1046	NP_056665.1	NS2	non-structural protein 2	OK	
+EF456777	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+EF456778	flub_db	23..2335	NP_056658.1	PB2	polymerase PB2	OK	
+EF456779	flub_db	24..2204	NP_056659.1	PA	polymerase PA	OK	
+EF473606	flub_db	<1..1053,1055..1711	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	45
+EF473606	flub_db	<1..1053,1055..1711	ABL76430.1	HA	putative hemagglutinin, C-terminal	FS	1053..1055,+1=>+2
+EF473631	flub_db	<1..1710	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	45
+EF541477	flub_db	33..335	ABL76378.1	NB	NB protein	OK	
+EF541477	flub_db	40..1440	ABL76379.1	NA	neuraminidase	OK	
+EF541478	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+EF541478	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+EF566111	flub_db	9..311	ABL76378.1	NB	NB protein	OK	
+EF566111	flub_db	16..1416	ABL76379.1	NA	neuraminidase	OK	
+EF566115	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EF566434	flub_db	6..308	ABL76378.1	NB	NB protein	OK	
+EF566434	flub_db	13..1413	ABL76379.1	NA	neuraminidase	OK	
+EF626630	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+EF626630	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+EF626631	flub_db	61..1743	NP_056661.1	NP	nucleoprotein	OK	
+EF626632	flub_db	44..889	ABL76887.1	NS1	non-structural protein 1	OK	
+EF626632	flub_db	44..76,732..1067	AAA43751.1	NS2	non-structural protein 2	OK	
+EF626634	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+EF626635	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+EF626636	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+EF626637	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+EF626637	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+EF626638	flub_db	47..349	ABL76961.1	NB	NB protein	OK	
+EF626638	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+EF626639	flub_db	59..1741	NP_056661.1	NP	nucleoprotein	OK	
+EF626640	flub_db	43..888	ABL76887.1	NS1	non-structural protein 1	OK	
+EF626640	flub_db	43..75,731..1066	AAA43751.1	NS2	non-structural protein 2	OK	
+EF626641	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+EF626642	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+EF626643	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+EU100590	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+EU100590	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+EU100591	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+EU100591	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+EU100592	flub_db	<1..296	ABL76378.1	NB	putative NB protein, C-terminal	T5	9
+EU100592	flub_db	1..1401	ABL76379.1	NA	neuraminidase	OK	
+EU124274	flub_db	<1..1746	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	12
+EU124275	flub_db	<1..1743	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	15
+EU305611	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+EU305612	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+EU305613	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+EU305614	flub_db	34..1788	ABL76430.1	HA	hemagglutinin	OK	
+EU305615	flub_db	61..1743	NP_056661.1	NP	nucleoprotein	OK	
+EU305616	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+EU305616	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+EU305617	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+EU305617	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+EU305618	flub_db	44..889	ABL76887.1	NS1	non-structural protein 1	OK	
+EU305618	flub_db	44..76,732..1067	AAA43751.1	NS2	non-structural protein 2	OK	
+EU515873	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515874	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515875	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515876	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515877	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515878	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515879	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515880	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515883	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515884	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515885	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515894	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515895	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515897	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515898	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515899	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515900	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515901	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515904	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515905	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515906	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515907	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515908	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515911	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515912	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515914	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515939	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515940	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515944	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515945	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515946	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515947	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515948	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515949	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515950	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515951	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515958	flub_db	47..349	ABL76378.1	NB	NB protein	OK	
+EU515958	flub_db	54..1454	ABL76379.1	NA	neuraminidase	OK	
+EU515959	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515960	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515962	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515963	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515965	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515967	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515968	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515969	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515970	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515971	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515974	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515975	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515992	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515993	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515994	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515995	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515996	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515997	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU515998	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU515999	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU516000	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU516001	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU516002	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU516003	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU516004	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU566952	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU566955	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU566958	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU566961	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU566965	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779536	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779538	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU779541	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779543	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779545	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779547	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779551	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779555	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779557	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779559	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779561	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779563	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779565	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779567	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+EU779569	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779571	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779573	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779575	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779577	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779579	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779580	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779582	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779584	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779586	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779588	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779590	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779592	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779594	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779596	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779600	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779602	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779604	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+EU779606	flub_db	1..1755	ABL76430.1	HA	hemagglutinin	OK	
+J02093	flub_db	34..1788	NP_056660.1	HA	hemagglutinin	OK	
+J02094	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+J02094	flub_db	771..1100	YP_419283.1	BM2	BM2 protein	OK	
+J02095	flub_db	47..349	NP_056662.1	NB	NB protein	OK	
+J02095	flub_db	54..1454	NP_056663.1	NA	neuraminidase	OK	
+J02096	flub_db	43..888	NP_056666.1	NS1	non-structural protein 1	OK	
+J02096	flub_db	43..75,731..1066	NP_056665.1	NS2	non-structural protein 2	OK	
+K00423	flub_db	34..1788	NP_056660.1	HA	hemagglutinin	OK	
+K00424	flub_db	<63..1788	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	30
+K00425	flub_db	34..1782	ABL76430.1	HA	hemagglutinin	OK	
+K01139	flub_db	60..1742	NP_056661.1	NP	nucleoprotein	OK	
+K01395	flub_db	58..1740	NP_056661.1	NP	nucleoprotein	OK	
+K02713	flub_db	34..1785	ABL76430.1	HA	hemagglutinin	OK	
+L49384	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+L49385	flub_db	1..1683	NP_056661.1	NP	nucleoprotein	OK	
+M10298	flub_db	11..1759	ABL76430.1	HA	hemagglutinin	OK	
+M14880	flub_db	21..2279	NP_056657.1	PB1	polymerase PB1	OK	
+M14909	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+M14909	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+M16633	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+M16633	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+M16634	flub_db	1..330,330..833	ABL76887.1	NS1	non-structural protein 1	FS	330..330,+1=>+3
+M16634	flub_db	1..33,676..1011	AAA43751.1	NS2	non-structural protein 2	OK	
+M16711	flub_db	30..2207	NP_056659.1	PA	polymerase PA	OK	
+M18384	flub_db	34..1785	ABL76430.1	HA	hemagglutinin	OK	
+M19786	flub_db	13..858	ABL76887.1	NS1	non-structural protein 1	OK	
+M19786	flub_db	13..45,701..1036	AAA43751.1	NS2	non-structural protein 2	OK	
+M19787	flub_db	14..859	ABL76887.1	NS1	non-structural protein 1	OK	
+M19787	flub_db	14..46,702..1037	AAA43751.1	NS2	non-structural protein 2	OK	
+M19788	flub_db	13..858	ABL76887.1	NS1	non-structural protein 1	OK	
+M19788	flub_db	13..45,701..997	AAA43751.1	NS2	non-structural protein 2	OK	
+M19789	flub_db	15..860	ABL76887.1	NS1	non-structural protein 1	OK	
+M19789	flub_db	15..47,703..1038	AAA43751.1	NS2	non-structural protein 2	OK	
+M19790	flub_db	14..859	ABL76887.1	NS1	non-structural protein 1	OK	
+M19790	flub_db	14..46,702..1037	AAA43751.1	NS2	non-structural protein 2	OK	
+M19791	flub_db	14..751,751..858	ABL76887.1	NS1	non-structural protein 1	FS	751..751,+2=>+1
+M19791	flub_db	14..46,702..752,752..1036	AAA43751.1	NS2	non-structural protein 2	FS	752..752,+3=>+2
+M19792	flub_db	15..860	ABL76887.1	NS1	non-structural protein 1	OK	
+M19792	flub_db	15..47,703..1038	AAA43751.1	NS2	non-structural protein 2	OK	
+M19793	flub_db	15..860	ABL76887.1	NS1	non-structural protein 1	OK	
+M19793	flub_db	15..47,703..1038	AAA43751.1	NS2	non-structural protein 2	OK	
+M19794	flub_db	1..846	ABL76887.1	NS1	non-structural protein 1	OK	
+M19794	flub_db	1..33,689..1024	AAA43751.1	NS2	non-structural protein 2	OK	
+M19795	flub_db	15..860	ABL76887.1	NS1	non-structural protein 1	OK	
+M19795	flub_db	15..47,703..1038	AAA43751.1	NS2	non-structural protein 2	OK	
+M19796	flub_db	14..859	ABL76887.1	NS1	non-structural protein 1	OK	
+M19796	flub_db	14..46,702..1037	AAA43751.1	NS2	non-structural protein 2	OK	
+M19797	flub_db	13..858	NP_056666.1	NS1	non-structural protein 1	OK	
+M19797	flub_db	13..45,701..1036	NP_056665.1	NS2	non-structural protein 2	OK	
+M20163	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+M20168	flub_db	24..2336	NP_056658.1	PB2	polymerase PB2	OK	
+M20169	flub_db	22..2280	ABL76263.1	PB1	polymerase PB1	OK	
+M20170	flub_db	22..2280	NP_056657.1	PB1	polymerase PB1	OK	
+M20171	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+M20172	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+M20173	flub_db	59..1741	NP_056661.1	NP	nucleoprotein	OK	
+M20174	flub_db	59..1741	NP_056661.1	NP	nucleoprotein	OK	
+M20175	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+M20175	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+M20176	flub_db	25..771	NP_056664.1	M1	matrix protein M1	OK	
+M20176	flub_db	771..1100	AAP22105.1	BM2	BM2 protein	OK	
+M20224	flub_db	45..890	ABL76887.1	NS1	non-structural protein 1	OK	
+M20224	flub_db	45..77,733..1068	AAA43751.1	NS2	non-structural protein 2	OK	
+M20225	flub_db	45..890	ABL76887.1	NS1	non-structural protein 1	OK	
+M20225	flub_db	45..77,733..1068	AAA43751.1	NS2	non-structural protein 2	OK	
+M20478	flub_db	30..2210	NP_056659.1	PA	polymerase PA	OK	
+M20479	flub_db	22..2280	NP_056657.1	PB1	polymerase PB1	OK	
+M30631	flub_db	17..319	ABL76961.1	NB	NB protein	OK	
+M30631	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+M30632	flub_db	10..309	ABL76378.1	NB	NB protein	OK	
+M30632	flub_db	17..1414	ABL76379.1	NA	neuraminidase	OK	
+M30633	flub_db	47..349	ABL76961.1	NB	NB protein	OK	
+M30633	flub_db	54..1454	NP_056663.1	NA	neuraminidase	OK	
+M30634	flub_db	10..309	ABL76378.1	NB	NB protein	OK	
+M30634	flub_db	17..1414	ABL76379.1	NA	neuraminidase	OK	
+M30635	flub_db	16..315	ABL76378.1	NB	NB protein	OK	
+M30635	flub_db	23..1420	ABL76379.1	NA	neuraminidase	OK	
+M30636	flub_db	17..319	ABL76378.1	NB	NB protein	OK	
+M30636	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+M30637	flub_db	17..319	ABL76961.1	NB	NB protein	OK	
+M30637	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+M30638	flub_db	17..319	ABL76961.1	NB	NB protein	OK	
+M30638	flub_db	24..1424	ABL76379.1	NA	neuraminidase	OK	
+M30639	flub_db	17..316	ABL76378.1	NB	NB protein	OK	
+M30639	flub_db	24..1421	ABL76379.1	NA	neuraminidase	OK	
+M54967	flub_db	47..346	ABL76378.1	NB	NB protein	OK	
+M54967	flub_db	54..1451	ABL76379.1	NA	neuraminidase	OK	
+M58428	flub_db	1..1758	ABL76430.1	HA	hemagglutinin	OK	
+S61093	flub_db	1..303	ABL76961.1	NB	NB protein	OK	
+S61093	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	
+X00897	flub_db	34..1785	ABL76430.1	HA	hemagglutinin	OK	
+X13550	flub_db	<1..1729	NP_056660.1	HA	putative hemagglutinin, C-terminal	T5	21
+X13551	flub_db	<1..1738	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	21
+X13552	flub_db	<1..1732	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	21
+X13553	flub_db	<1..1738	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	21
+X14217	flub_db	59..1741	NP_056661.1	NP	nucleoprotein	OK	
+X17222	flub_db	<1..1739	ABL76430.1	HA	putative hemagglutinin, C-terminal	T5	15
+X53098	flub_db	34..1791	ABL76430.1	HA	hemagglutinin	OK	
+X67013	flub_db	1..303	ABL76378.1	NB	NB protein	OK	
+X67013	flub_db	8..1408	ABL76379.1	NA	neuraminidase	OK	

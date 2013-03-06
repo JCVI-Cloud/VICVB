@@ -1,0 +1,1364 @@
+>Features 4669
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	1.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4670
+19	972	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+19	972	CDS
+			codon_start	1
+			protein_id	2.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4671
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	3.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4672
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	4.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	4.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4673
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	5.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4674
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	6.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4675
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	7.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4676
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	8.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4677
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	9.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4678
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	10.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 4679
+1	2685	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2685	CDS
+			codon_start	1
+			protein_id	11.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4749
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	12.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4750
+11	964	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+11	964	CDS
+			codon_start	1
+			protein_id	13.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4751
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	14.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4752
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	15.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	15.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4753
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	16.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4754
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	17.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4755
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	18.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4756
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	19.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4757
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	20.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4759
+1	2685	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2685	CDS
+			codon_start	1
+			protein_id	21.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 5062
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	22.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 4798
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	23.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4799
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	24.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4800
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	25.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4801
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	26.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	26.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4802
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	27.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4803
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	28.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4804
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	29.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4805
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	30.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4807
+1	2508	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+1	2508	CDS
+			codon_start	1
+			protein_id	31.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5053
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	32.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 5054
+1	2673	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2673	CDS
+			codon_start	1
+			protein_id	33.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4776
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	34.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4777
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	35.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4778
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	36.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4779
+1	594	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+1	594	CDS
+			codon_start	1
+			protein_id	37.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+59	337	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+59	337	CDS
+			codon_start	1
+			protein_id	37.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4780
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	38.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4781
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	39.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4782
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	40.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4783
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	41.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4784
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	42.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4785
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	43.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5055
+1	2673	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2673	CDS
+			codon_start	1
+			protein_id	44.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4809
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	45.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4810
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	46.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4811
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	47.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4812
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	48.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	48.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4813
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	49.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4814
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	50.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4815
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	51.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4816
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	52.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4817
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	53.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4818
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	54.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5058
+1	2673	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2673	CDS
+			codon_start	1
+			protein_id	55.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4934
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	56.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4935
+19	972	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+19	972	CDS
+			codon_start	1
+			protein_id	57.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4938
+1	594	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+1	594	CDS
+			codon_start	1
+			protein_id	58.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+59	337	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+59	337	CDS
+			codon_start	1
+			protein_id	58.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4939
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	59.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4941
+14	946	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+14	946	CDS
+			codon_start	1
+			protein_id	60.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4942
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	61.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4943
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	62.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4944
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	63.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5059
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	64.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 5060
+28	1008	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+28	1008	CDS
+			codon_start	1
+			protein_id	65.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 5061
+1	2685	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2685	CDS
+			codon_start	1
+			protein_id	66.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4969
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	67.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4970
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	68.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4971
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	69.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4972
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	70.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	70.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4973
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	71.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4974
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	72.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4975
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	73.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4976
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	74.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4977
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	75.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4978
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	76.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5057
+2	2674	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+2	2674	CDS
+			codon_start	1
+			protein_id	77.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4923
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	78.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4924
+19	972	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+19	972	CDS
+			codon_start	1
+			protein_id	79.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4926
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	80.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	80.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4927
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	81.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4928
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	82.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4929
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	83.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4930
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	84.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4931
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	85.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4932
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	86.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 4933
+1	2685	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2685	CDS
+			codon_start	1
+			protein_id	87.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 5052
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	88.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4736
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	89.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4737
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	90.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4739
+1	594	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+1	594	CDS
+			codon_start	1
+			protein_id	91.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+59	337	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+59	337	CDS
+			codon_start	1
+			protein_id	91.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4740
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	92.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4741
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	93.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4742
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	94.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4743
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	95.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4744
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	96.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 5049
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	97.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 5050
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	98.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5051
+1	2691	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2691	CDS
+			codon_start	1
+			protein_id	99.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4887
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	100.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4888
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	101.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4889
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	102.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4890
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	103.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	103.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4891
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	104.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4892
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	105.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7
+>Features 4893
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	106.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4894
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	107.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4895
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	108.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4896
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	109.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 5056
+2	2674	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+2	2674	CDS
+			codon_start	1
+			protein_id	110.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 4680
+2	3268	gene
+			locus_tag	vigor_VP1
+			gene	VP1
+2	3268	CDS
+			codon_start	1
+			protein_id	111.1
+			locus_tag	vigor_VP1
+			gene	VP1
+			product	RNA-dependent RNA Polymerase VP1
+>Features 4681
+25	978	gene
+			locus_tag	vigor_NSP2
+			gene	NSP2
+25	978	CDS
+			codon_start	1
+			protein_id	112.1
+			locus_tag	vigor_NSP2
+			gene	NSP2
+			product	non-structural protein 2
+			note	synonym: viroplasm RNA binding protein
+>Features 4682
+3	1463	gene
+			locus_tag	vigor_NSP1
+			gene	NSP1
+3	1463	CDS
+			codon_start	1
+			protein_id	113.1
+			locus_tag	vigor_NSP1
+			gene	NSP1
+			product	non-structural protein 1
+			note	synonym: interferon antagonist protein
+>Features 4683
+5	598	gene
+			locus_tag	vigor_NSP5
+			gene	NSP5
+5	598	CDS
+			codon_start	1
+			protein_id	114.1
+			locus_tag	vigor_NSP5
+			gene	NSP5
+			product	non-structural protein 5
+			note	synonym: NS26
+63	341	gene
+			locus_tag	vigor_NSP6
+			gene	NSP6
+63	341	CDS
+			codon_start	1
+			protein_id	114.2
+			locus_tag	vigor_NSP6
+			gene	NSP6
+			product	non-structural protein 6
+>Features 4684
+18	545	gene
+			locus_tag	vigor_NSP4
+			gene	NSP4
+18	545	CDS
+			codon_start	1
+			protein_id	115.1
+			locus_tag	vigor_NSP4
+			gene	NSP4
+			product	non-structural protein 4
+			note	synonym: assembly protein
+>Features 4686
+16	948	gene
+			locus_tag	vigor_NSP3
+			gene	NSP3
+16	948	CDS
+			codon_start	1
+			protein_id	116.1
+			locus_tag	vigor_NSP3
+			gene	NSP3
+			product	non-structural protein 3
+			note	synonym: translation effector protein
+>Features 4687
+4	1197	gene
+			locus_tag	vigor_VP6
+			gene	VP6
+4	1197	CDS
+			codon_start	1
+			protein_id	117.1
+			locus_tag	vigor_VP6
+			gene	VP6
+			product	inner capsid protein VP6
+>Features 4688
+1	2328	gene
+			locus_tag	vigor_VP4
+			gene	VP4
+1	2328	CDS
+			codon_start	1
+			protein_id	118.1
+			locus_tag	vigor_VP4
+			gene	VP4
+			product	outer capsid spike protein VP4
+>Features 4689
+6	2513	gene
+			locus_tag	vigor_VP3
+			gene	VP3
+6	2513	CDS
+			codon_start	1
+			protein_id	119.1
+			locus_tag	vigor_VP3
+			gene	VP3
+			product	RNA capping protein VP3
+>Features 4690
+1	2685	gene
+			locus_tag	vigor_VP2
+			gene	VP2
+1	2685	CDS
+			codon_start	1
+			protein_id	120.1
+			locus_tag	vigor_VP2
+			gene	VP2
+			product	core capsid protein VP2
+>Features 5048
+16	996	gene
+			locus_tag	vigor_VP7
+			gene	VP7
+16	996	CDS
+			codon_start	1
+			protein_id	121.1
+			locus_tag	vigor_VP7
+			gene	VP7
+			product	capsid glycoprotein VP7

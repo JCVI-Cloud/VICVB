@@ -1,6 +1,0 @@
-Sequence	Length	Genes	Pseudogenes	CDS Bases	Peptide Bases	%Ref Coverage	%Ref Identity	%Ref Similarity	Ref DB
-gi|61098|emb|X02316.1|PIHRV2G	7102	1	0	6453	2150	100.0	100.0	100.0	hrv_db
-gi|53987041|gb|AY751783.1|	7137	1	0	6474	2157	100.0	100.0	100.0	hrv_db
-gi|9627730|ref|NC_001617.1|	7152	1	0	6495	2164	100.0	100.0	100.0	hrv_db
-gi|221708|dbj|D00239.1|HRVACG	7133	1	0	6474	2157	100.0	100.0	100.0	hrv_db
-gi|330039|gb|M16248.1|HRV89	7152	1	0	6495	2164	100.0	100.0	100.0	hrv_db
