@@ -101,3 +101,9 @@ def load_config_json(config_file):
 def save_config_json(config,config_file):
     with open(config_file,'w') as f:
         json.dump(config,f)
+
+def none_from_str(s):
+    if s is not None:
+        if s == "None":
+            return None
+    return s

@@ -24,7 +24,6 @@ class galaxy_jbrowse(object):
         print self.opt
 
     def gff_to_jbrowse(self,
-            fasta_file,
             gff_file,
             index_html,
             data_dir_out,
@@ -42,7 +41,7 @@ class galaxy_jbrowse(object):
         if not os.path.exists(data_dir_out):
             os.makedirs(data_dir_out)
         gff_file = util.abspath(gff_file)
-        fasta_file = util.abspath(fasta_file)
+        #fasta_file = util.abspath(fasta_file)
         jbrowse_out_dir = os.path.join(data_dir_out,opt["jbrowse_data_subdir"])
         check_call(["prepare-refseqs.pl","--gff",gff_file,"--out",jbrowse_out_dir],
                 env=env)
@@ -101,8 +100,8 @@ class galaxy_jbrowse(object):
 
     def vicvb_to_genbank(self,
             genome_name,
-            annot_inp_fasta,
             annot_out,
+            annot_inp_fasta=None,
             tbl_conv_dir=None,
             tbl_to_asn_tpl=None
             ):
@@ -122,15 +121,27 @@ class galaxy_jbrowse(object):
             annot_out_dir = util.tar_extractall_safe_single_dir(
                     annot_out,annot_out_dir)
 
+        if not genome_name:
+            #try to figure it out
+            tbl_files = glob.glob(os.path.join(annot_out_dir,"*.tbl"))
+            assert len(tbl_files) == 1, "Expected in single .tbl file, found %s" % (tbl_files,)
+            genome_name = os.path.splitext(os.path.basename(tbl_files[0]))[0]
         annot_out_root = os.path.join(annot_out_dir,genome_name)
-        shutil.copy(
-                annot_inp_fasta,
-                os.path.join(
+        # If fasta is provided, copy that, otherwise it should be
+        # already inside annotation dir
+        if annot_inp_fasta:
+            shutil.copy(
+                    annot_inp_fasta,
+                    os.path.join(
                     tbl_conv_dir,
                     genome_name+".fsa"
                     )
                 )
-        for ext in (".tbl",".pep"):
+            fsa_ext = []
+        else:
+            fsa_ext = [".fsa"]
+
+        for ext in [".tbl",".pep"] + fsa_ext:
             shutil.copy(
                     annot_out_root+ext,
                     tbl_conv_dir
@@ -145,15 +156,22 @@ class galaxy_jbrowse(object):
         else:
             tbl_to_asn_exe = "tbl2asn"
         
-        check_call([tbl_to_asn_exe,
-            "-p",tbl_conv_dir,
-            #"-t",tbl_to_asn_tpl,
-            "-a","s",
-            "-V","bv",
-            "-n",genome_name])
+        #tbl2ans prints warning and progress into stderr spooking Galaxy.
+        #Redirect stderr to a file.
+        with open(os.path.join(
+            tbl_conv_dir,"tbl2asn.%s.stderr" % (genome_name,)),
+            "w") as stderr:
+            check_call([tbl_to_asn_exe,
+                "-p",tbl_conv_dir,
+                #"-t",tbl_to_asn_tpl,
+                "-a","s",
+                "-V","bv",
+                "-n",genome_name],
+                stderr=stderr)
         
         return dict(
                 genbank_file=os.path.join(tbl_conv_dir,genome_name+".gbf"),
+                genome_name=genome_name
                 )
 
     def vicvb_to_jbrowse(self,
@@ -163,20 +181,20 @@ class galaxy_jbrowse(object):
             index_html,
             data_dir_out
             ):
-            annot_inp_fasta = util.abspath(annot_inp_fasta)
             annot_out = util.abspath(annot_out)
             index_html = util.abspath(index_html)
             data_dir_out = util.abspath(data_dir_out)
+            if annot_inp_fasta:
+                annot_inp_fasta = util.abspath(annot_inp_fasta)
             res_gb = self.vicvb_to_genbank(
                 genome_name=genome_name,
-                annot_inp_fasta=annot_inp_fasta,
-                annot_out=annot_out
+                annot_out=annot_out,
+                annot_inp_fasta=annot_inp_fasta
                 )
             
             res_gff = self.genbank_to_gff(genbank_file=res_gb["genbank_file"])
 
             self.gff_to_jbrowse(
-                fasta_file=annot_inp_fasta,
                 gff_file=res_gff["gff_file"],
                 index_html=index_html,
                 data_dir_out=data_dir_out
@@ -192,6 +210,8 @@ def to_jbrowse(conf,
     args = locals()
     args.pop("conf")
     opt = util.load_config_json(conf)
+    args["annot_inp_fasta"] = util.none_from_str(args["annot_inp_fasta"])
+    args["genome_name"] = util.none_from_str(args["genome_name"])
     return galaxy_jbrowse(**opt).vicvb_to_jbrowse(**args)
 
 def main():
