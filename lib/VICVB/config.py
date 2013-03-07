@@ -1,6 +1,6 @@
 """Configuration and resources of this package"""
 from pkg_resources import Requirement, resource_filename, resource_string
-import os
+import os, sys
 
 pkg_name = "VICVB"
 pkg_data = pkg_name+"/data"
@@ -31,4 +31,8 @@ def set_data_string(s,name):
     with open(name,'w') as f:
         f.write(s)
 
+def get_default_conf_file(ext=".json"):
+        #assume this is called from a script and put conf file in the same dir
+        conf_file = os.path.join(os.path.dirname(sys.argv[0]),pkg_name+ext)
+        return conf_file
 

@@ -21,5 +21,6 @@ def install_jbrowse_cmd(request):
     check_call(["vicvb_postinstall",
         "install-jbrowse",
         "--rename-to","jbrowse",
+        "--conf-file","VICVB.json",
         os.getcwd(),
         "/"])

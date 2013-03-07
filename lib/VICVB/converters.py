@@ -205,15 +205,18 @@ class galaxy_jbrowse(object):
                 )
         
 
-def to_jbrowse(conf,
+def to_jbrowse(
         genome_name,
         annot_inp_fasta,
         annot_out,
         index_html,
-        data_dir_out):
+        data_dir_out,
+        conf_file=None):
     args = locals()
-    args.pop("conf")
-    opt = util.load_config_json(conf)
+    args.pop("conf_file")
+    if not conf_file:
+        conf_file = config.get_default_conf_file()
+    opt = util.load_config_json(conf_file)
     args["annot_inp_fasta"] = util.none_from_str(args["annot_inp_fasta"])
     args["genome_name"] = util.none_from_str(args["genome_name"])
     return galaxy_jbrowse(**opt).vicvb_to_jbrowse(**args)

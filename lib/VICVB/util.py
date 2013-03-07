@@ -91,12 +91,12 @@ def tar_extractall_safe_single_dir(archive,path=None):
             % (path,)
     return os.path.join(path,subdirs[0])
 
-def load_config_json(config_file):
+def load_config_json(config_file,default={}):
     if os.path.exists(config_file):
         with open(config_file,'r') as f:
             return json.load(f)
     else:
-        return {}
+        return default
 
 def save_config_json(config,config_file):
     with open(config_file,'w') as f:
