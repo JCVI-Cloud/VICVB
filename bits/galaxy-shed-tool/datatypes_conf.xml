@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datatypes>
+    <datatype_files>
+        <!-- Python file has to be present in order for display_applications and converters to be found during install.
+        It can be empty. -->
+        <datatype_file name="vicvb.py"/>
+    </datatype_files>
+    <registration display_path="display_applications">	
+        <datatype extension="vigor.tgz" type="galaxy.datatypes.binary:Binary" mimetype="application/octet-stream" display_in_upload="true" subclass="True">
+            <converter file="vicvb_vigor_tgz_to_jbrowse_converter.xml" target_datatype="vicvb.jbrowse"/>
+            <!-- inheret True means datatypes subclassing vigor.tgz also have
+            this display application available; do we need it here? -->
+            <display file="vicvb/vicvb_jbrowse_display.xml" inherit="True" />
+        </datatype>
+        <datatype extension="vicvb.jbrowse" type="galaxy.datatypes.images:Html"  mimetype="text/html" display_in_upload="False" subclass="True">
+            <display file="vicvb/vicvb_jbrowse_display.xml" inherit="True" />
+        </datatype>
+    </registration>
+</datatypes>

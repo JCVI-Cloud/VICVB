@@ -1,0 +1,6 @@
+<display id="vicvb_jbrowse_display" version="1.0.0" name="display in JBrowse">
+    <link id="local" name="local">
+        <url target_frame="galaxy_main">/static/vicvb/jbrowse/index.html?jbrowse_data=$vcb_jbrowse.extra_files_path.url/data</url>
+        <param type="data" name="vcb_jbrowse" format="vicvb.jbrowse"/>
+    </link>
+</display>
