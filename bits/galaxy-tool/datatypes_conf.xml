@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<datatypes>
+  <registration converters_path="lib/galaxy/datatypes/converters" display_path="display_applications">
+    <datatype extension="html" type="galaxy.datatypes.images:Html" mimetype="text/html"/>
+    <datatype extension="vigor.tgz" type="galaxy.datatypes.binary:Binary" mimetype="application/octet-stream" display_in_upload="true" subclass="True">
+    </datatype>
+    <datatype extension="vicvb.jbrowse" type="galaxy.datatypes.images:Html"  mimetype="text/html" display_in_upload="False" subclass="True">
+    </datatype>
+    <datatype extension="scf" type="galaxy.datatypes.binary:Scf" mimetype="application/octet-stream" display_in_upload="true"/>
+    <datatype extension="Sequences" type="galaxy.datatypes.assembly:Sequences" display_in_upload="false"/>
+    <datatype extension="sff" type="galaxy.datatypes.binary:Sff" mimetype="application/octet-stream" display_in_upload="true"/>
+    <datatype extension="svg" type="galaxy.datatypes.images:Image" mimetype="image/svg+xml"/>
+    <datatype extension="taxonomy" type="galaxy.datatypes.tabular:Taxonomy" display_in_upload="true"/>
+    <datatype extension="tabular" type="galaxy.datatypes.tabular:Tabular" display_in_upload="true"/>
+    <datatype extension="twobit" type="galaxy.datatypes.binary:TwoBit" mimetype="application/octet-stream" display_in_upload="true"/>
+    <datatype extension="txt" type="galaxy.datatypes.data:Text" display_in_upload="true"/>
+    <datatype extension="linecount" type="galaxy.datatypes.data:LineCount" display_in_upload="false"/>
+  </registration>
+  <sniffers>
+    <!--
+    The order in which Galaxy attempts to determine data types is
+    important because some formats are much more loosely defined
+    than others.  The following list should be the most rigidly
+    defined format first, followed by next-most rigidly defined,
+    and so on.
+    -->
+    <sniffer type="galaxy.datatypes.tabular:Vcf"/>
+    <sniffer type="galaxy.datatypes.binary:TwoBit"/>
+    <sniffer type="galaxy.datatypes.binary:Bam"/>
+    <sniffer type="galaxy.datatypes.binary:Sff"/>
+    <sniffer type="galaxy.datatypes.xml:Phyloxml"/>
+    <sniffer type="galaxy.datatypes.xml:GenericXml"/>
+    <sniffer type="galaxy.datatypes.sequence:Maf"/>
+    <sniffer type="galaxy.datatypes.sequence:Lav"/>
+    <sniffer type="galaxy.datatypes.sequence:csFasta"/>
+    <sniffer type="galaxy.datatypes.qualityscore:QualityScoreSOLiD"/>
+    <sniffer type="galaxy.datatypes.qualityscore:QualityScore454"/>
+    <sniffer type="galaxy.datatypes.sequence:Fasta"/>
+    <sniffer type="galaxy.datatypes.sequence:Fastq"/>
+    <sniffer type="galaxy.datatypes.interval:Wiggle"/>
+    <sniffer type="galaxy.datatypes.images:Html"/>
+    <!--
+    Keep this commented until the sniff method in the assembly.py
+    module is fixed to not read the entire file.
+    <sniffer type="galaxy.datatypes.assembly:Amos"/>
+    -->
+  </sniffers>
+</datatypes>

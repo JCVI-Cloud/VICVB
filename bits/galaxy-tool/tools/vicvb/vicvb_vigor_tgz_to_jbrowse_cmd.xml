@@ -1,0 +1,14 @@
+<tool id="vicvb_vigor_tgz_to_jbrowse_cmd" name="Convert VIGOR tarball output to JBrowse data directory using command line script of VICVB" version="1.0">
+  <command>
+        vicvb_galaxy_tool to-jbrowse None None '$inp_vigor_tgz' 
+        '$out_vcb_jbrowse' '${out_vcb_jbrowse.extra_files_path}'
+  </command>
+  <inputs>
+    <param format="vigor.tgz" name="inp_vigor_tgz" type="data" label="VIGOR output archive file"/>
+  </inputs>
+  <outputs>
+    <data format="html" name="out_vcb_jbrowse" metadata_source="inp_vigor_tgz"/>
+  </outputs>
+  <help>
+  </help>
+</tool>
