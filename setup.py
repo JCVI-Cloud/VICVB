@@ -1,3 +1,9 @@
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ##
+#
+#   See COPYING file distributed along with the VICVB package for the
+#   copyright and license terms.
+#
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ##
 main_pkg_name = "VICVB"
 script_pref = "vicvb_"
 
@@ -90,5 +96,5 @@ setup(
     description = "Package to integrate JBrowse into Galaxy instance of JCVI viral annotation pipeline",
     license = "GPL",
     keywords = "Galaxy JCVI viral annotation JBrowse",
-    url = "http://github.com/JCVI-Cloud", 
+    url = "http://github.com/JCVI-Cloud/VICVB", 
 )
