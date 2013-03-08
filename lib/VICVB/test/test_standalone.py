@@ -20,12 +20,22 @@ pytestmark = pytest.mark.usefixtures("goto_cleandir_test",
 
 def test_vigor(inp_data_dir):
     input_dir = pjoin(inp_data_dir,"input")
-    fasta = os.listdir(input_dir)
-    assert len(fasta) == 1, "One FASTA file is expected in %s" % (input_dir,)
-    fasta = pjoin(input_dir,fasta[0])
-    genome_name = os.path.splitext(os.path.basename(fasta))[0]
-    vigor_out = pjoin(inp_data_dir,"output")
-    jbrowse_out = genome_name + ".jbrowse"
+    if os.path.isdir(input_dir):
+        fasta = os.listdir(input_dir)
+        assert len(fasta) == 1, "One FASTA file is expected in %s" % (input_dir,)
+        fasta = pjoin(input_dir,fasta[0])
+        genome_name = os.path.splitext(os.path.basename(fasta))[0]
+        out_base = genome_name
+        vigor_out = pjoin(inp_data_dir,"output")
+    else:
+        fasta = None
+        vigor_out = inp_data_dir
+        out_base = os.path.basename(os.path.dirname(inp_data_dir))+\
+                "_"+\
+                os.path.splitext(os.path.basename(inp_data_dir))[0]
+        genome_name = None
+        
+    jbrowse_out = out_base + ".jbrowse"
     html_index = pjoin(jbrowse_out,"index.html")
     #TMP:
     #print ("vicvb_galaxy_tool to-jbrowse VICVB.json {genome_name} "+\
