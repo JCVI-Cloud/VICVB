@@ -21,13 +21,13 @@ For a one-stop typical installation into Galaxy, a script is provided, which can
     cd VICVB
     lib/VICVB/data/install/install_to_dir_full.sh <PACKAGE_INSTALL_DIR> <GALAXY_HOME> <GALAXY_ROOT_URL>
 
-Replace the references to each <PARAMETER> above with your actual values. Typically, GALAXY_ROO_URL
+Replace the references to each bracketed name above with your actual values. Typically, GALAXY_ROOT_URL
 is just /.
 The command above will install the package using Python's --install-dir scheme - everything will be
-placed as eggs into PACKAGE_INSTALL_DIR. VICVB.rc file will be generated in <PACKAGE_INSTALL_DIR>.
-You should source it before using the package. The JBrowse will be installed under <GALAXY_HOME>/static.
+placed as eggs into PACKAGE_INSTALL_DIR. VICVB.rc file will be generated in PACKAGE_INSTALL_DIR.
+You should source it before using the package. The JBrowse will be installed under GALAXY_HOME/static.
 
-The script above will copy all Python dependencies into <PACKAGE_INSTALL_DIR>. You can edit the
+The script above will copy all Python dependencies into PACKAGE_INSTALL_DIR. You can edit the
 install script to change that and other subtleties.
 
 The package assumes that NCBI tbl2asn executable is available in system PATH.
