@@ -30,7 +30,7 @@ def run_vigor(data_dir):
     #TMP:
     #print ("vicvb_galaxy_tool to-jbrowse VICVB.json {genome_name} "+\
     #                    "{fasta} {vigor_out} {html_index} {jbrowse_out}").format(**locals())
-    check_call(("vicvb_galaxy_tool to-jbrowse VICVB.json {genome_name} "+\
+    check_call(("vicvb_galaxy_tool to-jbrowse --conf-file VICVB.json {genome_name} "+\
             "{fasta} {vigor_out} {html_index} {jbrowse_out}").format(**locals()).split())
 
 def test_vigor():

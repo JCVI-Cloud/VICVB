@@ -21,7 +21,6 @@ class galaxy_jbrowse(object):
         self.opt = locals().copy()
         self.opt.pop("self")
         self.opt["jbrowse_bin_dir"] = util.abspath(self.opt["jbrowse_bin_dir"])
-        print self.opt
 
     def gff_to_jbrowse(self,
             gff_file,

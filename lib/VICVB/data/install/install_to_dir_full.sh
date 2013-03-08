@@ -6,8 +6,8 @@ mkdir -p "$target_dir"
 rc="vicvb.rc"
 python lib/VICVB/data/install/helpers.py gen-rc install-dir "$target_dir" $rc
 . "$rc"
-#python setup.py easy_install --install-dir "$target_dir" --always-copy .
-python setup.py easy_install --install-dir "$target_dir" .
+python setup.py easy_install --install-dir "$target_dir" --always-copy .
+#python setup.py easy_install --install-dir "$target_dir" .
 mv "$rc" "$target_dir/"
 
 galaxy_dir=$2

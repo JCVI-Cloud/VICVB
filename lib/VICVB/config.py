@@ -32,7 +32,9 @@ def set_data_string(s,name):
         f.write(s)
 
 def get_default_conf_file(ext=".json"):
+    conf_file = os.environ.get(pkg_name+"_CONF")
+    if not conf_file:
         #assume this is called from a script and put conf file in the same dir
         conf_file = os.path.join(os.path.dirname(sys.argv[0]),pkg_name+ext)
-        return conf_file
+    return conf_file
 
