@@ -38,6 +38,7 @@ Testing
 ### Conversion to JBrowse and viewing outside of Galaxy
 
 To test the conversion procedure, from the package source dir do:
+
     python setup.py test
     #replace run.test.OAtT6g.tmp below with the unique directory name that was created by the test run
     cd test_run/run.test.OAtT6g.tmp
