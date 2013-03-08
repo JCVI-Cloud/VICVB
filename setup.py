@@ -1,3 +1,6 @@
+main_pkg_name = "VICVB"
+script_pref = "vicvb_"
+
 #activate 'distribute', installing it if necessary
 from distribute_setup import use_setuptools
 use_setuptools()
@@ -8,8 +11,6 @@ import os,sys
 from fnmatch import fnmatch
 
 
-main_pkg_name = "VICVB"
-script_pref = "vicvb_"
 
 def _entry_point(script_name,pkg_path):
     return script_pref+script_name+' = '+main_pkg_name+'.'+pkg_path
