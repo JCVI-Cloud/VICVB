@@ -51,7 +51,7 @@ To test the conversion procedure, from the package source dir do:
 
 To use this package in Galaxy, exposing it as a separate Galaxy tool is not needed. It can be just executed as part
 of any other tool command line, creating an extra output dataset, which can be then viewed in JBrowse.
-For testing purposes, we have provided a demonstration tool that takes a VIGOR output as a tarball (it
+For testing purposes, we have provided a couple of demonstration tools which take a VIGOR output as a tarball (it
 should also contain nucleotide FASTA input to VIGOR) and generates JBrowse input (as Galaxy compound dataset).
 See bits/galaxy-tool/Readme.txt in the source tree (especially the part about switching off HTML sanitization).
 After you have installed the sample Galaxy tool, upload lib/VICVB/data/test_data/VIGOR/NCBI.one_arch/Rhinovirus.tgz
@@ -60,3 +60,11 @@ The code of these sample tools can be reviewed as examples of calling the packag
 
 To view the output in JBrowse, click on the Eye icon of the resulting history item. You should see a genome in the central
 Galaxy panel.
+
+Running
+-------
+
+See the command lines of the sample Galaxy tools referenced in the previous section.
+To see other options, run the main script "vcvb_galaxy_tool --help". Note that the
+input can be supplied either as a tarball or as a directory produced by VIGOR.
+
