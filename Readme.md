@@ -65,6 +65,6 @@ Running
 -------
 
 See the command lines of the sample Galaxy tools referenced in the previous section.
-To see other options, run the main script "vcvb_galaxy_tool --help". Note that the
+To see other options, run the main script "vicvb_galaxy_tool --help". Note that the
 input can be supplied either as a tarball or as a directory produced by VIGOR.
 
