@@ -13,7 +13,7 @@ use_setuptools()
 
 from setuptools import setup, find_packages
 from setuptools.command.test import test as TestCommand
-import os,sys
+import os,sys,tempfile
 from fnmatch import fnmatch
 
 
@@ -59,6 +59,25 @@ def iter_files_tree(dir,to_base=True,patt=None):
 
 def _list_pkg_files(dir,patt=None):
     return list(iter_files_tree(os.path.join("lib",main_pkg_name,dir),patt=patt))
+
+#Simply running "python setup.py test" will not work because the test fixture
+#uses entry point script to install JBrowse (this is by itself a usefull test).
+#setup.py test command does not create entry point scripts.
+#Thus, we detect when a command line looks like "* setup.py test" and modify
+#it to look like "* setup.py develop --install-dir <tmp_dir> test", also
+#adding <tmp_dir> to PATH and PYTHONPATH.
+if len(sys.argv) >= 2 and sys.argv[-1] == "test" and sys.argv[-2] == "setup.py":
+    pos_test = -1
+    test_inst_dir = os.path.abspath(os.path.join("test_run","install"))
+    if not os.path.exists(test_inst_dir):
+        os.makedirs(test_inst_dir)
+    test_inst_dir = tempfile.mkdtemp(prefix="install.test.",suffix=".tmp",dir=test_inst_dir)
+    sys.path.insert(0,test_inst_dir)
+    PATH = os.environ.get("PATH",test_inst_dir)
+    os.environ["PATH"] = os.pathsep.join([test_inst_dir,PATH])
+    PYTHONPATH = os.environ.get("PYTHONPATH",test_inst_dir)
+    os.environ["PYTHONPATH"] = os.pathsep.join([test_inst_dir,PYTHONPATH])
+    sys.argv = sys.argv[:pos_test]+["develop","--install-dir",test_inst_dir]+sys.argv[pos_test:]
 
 setup(
     name = main_pkg_name,
