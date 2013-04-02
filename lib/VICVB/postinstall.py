@@ -38,7 +38,16 @@ def install_jbrowse(install_dir,
     f = zipfile.ZipFile(jbrowse_zip, 'r')
     try:
         install_name = os.path.dirname(f.namelist()[0])
+        assert (install_name not in (".","..")) and \
+            os.path.dirname(install_name) == "",\
+            "Unsafe path detected in JBrowse archive: {}".format(f.namelist()[0])
         install_home = pjoin(install_dir,install_name)
+        #JBrowse setup script will not install Pelr modules
+        #if it is executed in a directory where it was ran before,
+        #even unsuccessfuly.
+        #Wack the existing directory:
+        if os.path.exists(install_home):
+            shutil.rmtree(install_home)
         #somehow zipfile module wacks executable bits
         #f.extractall(path=install_dir)
         #unsafe:
