@@ -35,32 +35,34 @@ def add_to_path(target,path=None,prepend=True):
             val = os.pathsep.join([path,val])
     return val
 
-try:
-    action = sys.argv[1]
-except IndexError:
-    print "Usage: %s action [args]" % (os.path.basename(sys.argv[0]),)
-    sys.exit(1)
+if __name__ == "__main__":
 
-assert action in ("gen-rc",)
+    try:
+        action = sys.argv[1]
+    except IndexError:
+        print "Usage: %s action [args]" % (os.path.basename(sys.argv[0]),)
+        sys.exit(1)
 
-if action == "gen-rc":
-    schema = sys.argv[2]
-    target = sys.argv[3]
-    rc = sys.argv[4]
+    assert action in ("gen-rc",)
 
-    assert schema in ("install-dir",)
+    if action == "gen-rc":
+        schema = sys.argv[2]
+        target = sys.argv[3]
+        rc = sys.argv[4]
 
-    if not os.path.isabs(target):
-        target = os.path.abspath(target)
+        assert schema in ("install-dir",)
 
-    if schema == "install-dir":
-        PATH = os.environ.get("PATH","")
-        PYTHONPATH = os.environ.get("PYTHONPATH","")
-        with open(rc,"w") as out:
-            if not is_in_path(target,sys.path):
-                print >> out, "export PYTHONPATH={0}{1}$PYTHONPATH".format(target,os.pathsep)
-            if not is_in_path(target,PATH):
-                print >> out, "export PATH={0}{1}$PATH".format(target,os.pathsep)
-            print >> out, "export {0}_CONF={1}".format(pkg_name,
-                    os.path.join(target,pkg_name+conf_ext))
+        if not os.path.isabs(target):
+            target = os.path.abspath(target)
+
+        if schema == "install-dir":
+            PATH = os.environ.get("PATH","")
+            PYTHONPATH = os.environ.get("PYTHONPATH","")
+            with open(rc,"w") as out:
+                if not is_in_path(target,sys.path):
+                    print >> out, "export PYTHONPATH={0}{1}$PYTHONPATH".format(target,os.pathsep)
+                if not is_in_path(target,PATH):
+                    print >> out, "export PATH={0}{1}$PATH".format(target,os.pathsep)
+                print >> out, "export {0}_CONF={1}".format(pkg_name,
+                        os.path.join(target,pkg_name+conf_ext))
 
