@@ -68,9 +68,33 @@ class galaxy_jbrowse(object):
             env=env)
         check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
             "--trackLabel","CDS",
-            "--cssClass","cds",
+            "--cssClass","generic_parent",
+            "--subfeatureClasses",'{ "exon" : "exon" }',
             "--type","CDS",
+            "--type","exon",
+            "--autocomplete","all"
+            "--getLabel",
+            "--getType",
+            "--getSubs",
+            "--getPhase"
+            ],
+            env=env)
+        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+            "--trackLabel","Peptides",
+            "--cssClass","est",
+            "--subfeatureClasses",'{ "mat_peptide" : "transcript-CDS" }',
             "--type","mat_peptide",
+            "--autocomplete","all"
+            "--getLabel",
+            "--getType",
+            "--getSubs",
+            "--getPhase"
+            ],
+            env=env)
+        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+            "--trackLabel","Misc",
+            "--cssClass","feature3",
+            "--type","misc_feature",
             "--autocomplete","all"
             "--getLabel",
             "--getType",
@@ -90,7 +114,7 @@ class galaxy_jbrowse(object):
                 config.get_data_string(self.opt["jbrowse_galaxy_index_html_tpl"],
                     "galaxy.index.html")
         jbrowse_url_params = util.to_url_params(dict(
-            tracks=",".join(("DNA","Genes","CDS")),
+            tracks=",".join(("DNA","Genes","CDS","Peptides","Misc")),
             tracklist=0
             ))
         with open(index_html,"w") as f:
@@ -177,6 +201,8 @@ class galaxy_jbrowse(object):
                 #"-t",tbl_to_asn_tpl,
                 "-a","s",
                 "-V","bv",
+                "-L","T",
+                "-F","p",
                 "-n",genome_name],
                 stderr=stderr)
         

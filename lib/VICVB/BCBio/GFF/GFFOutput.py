@@ -4,6 +4,8 @@ The target format is GFF3, the current GFF standard:
     http://www.sequenceontology.org/gff3.shtml
 """
 import urllib
+from copy import copy
+import textwrap
 
 from Bio import SeqIO
 
@@ -13,18 +15,23 @@ class _IdHandler:
     def __init__(self):
         self._prefix = "biopygen"
         self._counter = 1
-        self._seen_ids = []
+        self._seen_ids = set()
 
     def _generate_id(self, quals):
         """Generate a unique ID not present in our existing IDs.
         """
         gen_id = self._get_standard_id(quals)
+        if gen_id and gen_id not in self._seen_ids:
+            return gen_id
         if gen_id is None:
-            while 1:
-                gen_id = "%s%s" % (self._prefix, self._counter)
-                if gen_id not in self._seen_ids:
-                    break
-                self._counter += 1
+            prefix = self._prefix
+        else:
+            prefix = gen_id
+        while 1:
+            gen_id = "%s.%s" % (prefix, self._counter)
+            if gen_id not in self._seen_ids:
+                break
+            self._counter += 1
         return gen_id
 
     def _get_standard_id(self, quals):
@@ -33,7 +40,7 @@ class _IdHandler:
         This tries to find IDs from known key/values when stored differently
         than GFF3 specifications.
         """
-        possible_keys = ["transcript_id", "protein_id"]
+        possible_keys = ["transcript_id", "protein_id", "Name"]
         for test_key in possible_keys:
             if quals.has_key(test_key):
                 cur_id = quals[test_key]
@@ -52,11 +59,11 @@ class _IdHandler:
             if not isinstance(cur_id, list) and not isinstance(cur_id, tuple):
                 cur_id = [cur_id]
             for add_id in cur_id:
-                self._seen_ids.append(add_id)
+                self._seen_ids.add(add_id)
         # if we need one and don't have it, create a new one
         elif has_children:
             new_id = self._generate_id(quals)
-            self._seen_ids.append(new_id)
+            self._seen_ids.add(new_id)
             quals["ID"] = [new_id]
         return quals
 
@@ -79,14 +86,17 @@ class GFF3Writer:
         for rec in recs:
             #import pdb
             #pdb.set_trace()
+            self.last_by_type = {}
             if not rec.id:
                 rec.id = rec.name
             self._write_rec(rec, out_handle)
             self._write_annotations(rec.annotations, rec.id, len(rec.seq), out_handle)
             for sf in rec.features:
                 sf = self._clean_feature(sf)
+                self.last_by_type[sf.type] = sf
                 id_handler = self._write_feature(sf, rec.id, out_handle,
                         id_handler)
+                print sf
             if include_fasta and len(rec.seq) > 0:
                 fasta_recs.append(rec)
         if len(fasta_recs) > 0:
@@ -100,8 +110,6 @@ class GFF3Writer:
             val = [str(x) for x in val]
             quals[key] = val
         feature.qualifiers = quals
-        clean_sub = [self._clean_feature(f) for f in feature.sub_features]
-        feature.sub_features = clean_sub
         return feature
 
     def _write_rec(self, rec, out_handle):
@@ -143,14 +151,26 @@ class GFF3Writer:
             if not quals.has_key("Parent"):
                 quals["Parent"] = []
             quals["Parent"].append(parent_id)
-        quals = id_handler.update_quals(quals, len(feature.sub_features) > 0)
         if not quals.get("Name",[]):
             quals["Name"] = _select_first_qual_non_empty(quals,("product","gene","organism"))[1]
+        quals = id_handler.update_quals(quals, True)
+        feature.qualifiers["ID"] = quals["ID"]
 
         if feature.type:
             ftype = feature.type
         else:
             ftype = "sequence_feature"
+        if ftype == "mat_peptide":
+            last_CDS = self.last_by_type.get("CDS",None)
+            if last_CDS:
+                gene_CDS = last_CDS.qualifiers.get("gene",None)
+                gene_this = quals.get("gene",None)
+                if gene_this is not None and gene_this == gene_CDS:
+                    #we cannot use the correct Derives_from qual because
+                    #JBrowse will not show mat_peptides by instead create
+                    #ugly text box attribute Derived Features for the parent CDS
+                    quals["Parent_CDS"] = last_CDS.qualifiers["ID"]
+        parts_loc_ind = (3,4)
         parts = [str(rec_id),
                  feature.qualifiers.get("source", ["feature"])[0],
                  ftype,
@@ -161,9 +181,27 @@ class GFF3Writer:
                  self._get_phase(feature),
                  self._format_keyvals(quals)]
         out_handle.write("\t".join(parts) + "\n")
-        for sub_feature in feature.sub_features:
-            id_handler = self._write_feature(sub_feature, rec_id, out_handle,
-                    id_handler, quals["ID"][0])
+
+        if len(feature.location.parts) >= 2 or feature.type == "CDS":
+            for sub_location in feature.location.parts:
+                #import pdb
+                #pdb.set_trace()
+                sub_feature = copy(feature)
+                sub_par_id = quals["ID"][0]
+                sub_quals = copy(quals)
+                sub_feature.qualifiers = sub_quals
+                del sub_quals["ID"]
+                for key in sub_feature.qualifiers.keys():
+                    if key not in ("Name","ID"):
+                        del sub_feature.qualifiers[key]
+                sub_feature.location = sub_location
+                if sub_feature.type == "CDS":
+                    sub_feature.type = "exon"
+                    if "translation" in sub_feature.qualifiers:
+                        del sub_feature.qualifiers["translation"]
+
+                id_handler = self._write_feature(sub_feature, rec_id, out_handle,
+                        id_handler, sub_par_id)
         return id_handler
 
     def _format_keyvals(self, keyvals):
@@ -174,9 +212,14 @@ class GFF3Writer:
             if not isinstance(values, list) or isinstance(values, tuple):
                 values = [values]
             for val in values:
-                val = urllib.quote(str(val).strip())
+                s_val = str(val).strip()
+                s_val = textwrap.fill(s_val,60)
+                val = urllib.quote(s_val)
                 if ((key and val) and val not in format_vals):
                     format_vals.append(val)
+            #JBrowse does not show attributes w/o values, so we add a space
+            if len(format_vals) == 0:
+                format_vals.append(urllib.quote(" "))
             format_kvs.append("%s=%s" % (key, ",".join(format_vals)))
         return ";".join(format_kvs)
 

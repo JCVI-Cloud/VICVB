@@ -7,16 +7,40 @@
 main_pkg_name = "VICVB"
 script_pref = "vicvb_"
 
+import os,sys,tempfile
+from fnmatch import fnmatch
+
+
+#Simply running "python setup.py test" will not work because the test fixture
+#uses entry point script to install JBrowse (this is by itself a usefull test).
+#setup.py test command does not create entry point scripts.
+#Thus, we detect when a command line looks like "* setup.py test" and modify
+#it to look like "* setup.py develop --install-dir <tmp_dir> test", also
+#adding <tmp_dir> to PATH and PYTHONPATH.
+
+if len(sys.argv) >= 2 and sys.argv[-1] == "test" and sys.argv[-2] == "setup.py":
+
+    print "Modifying path for testing"
+
+    test_inst_dir = os.path.abspath(os.path.join("test_run","install"))
+    if not os.path.exists(test_inst_dir):
+        os.makedirs(test_inst_dir)
+    #test_inst_dir = tempfile.mkdtemp(prefix="install.test.",suffix=".tmp",dir=test_inst_dir)
+    sys.path.insert(0,test_inst_dir)
+    PATH = os.environ.get("PATH",test_inst_dir)
+    os.environ["PATH"] = os.pathsep.join([test_inst_dir,PATH])
+    PYTHONPATH = os.environ.get("PYTHONPATH",test_inst_dir)
+    os.environ["PYTHONPATH"] = os.pathsep.join([test_inst_dir,PYTHONPATH])
+
+    pos_test = -1
+    sys.argv = sys.argv[:pos_test]+["develop","--install-dir",test_inst_dir]+sys.argv[pos_test:]
+
 #activate 'distribute', installing it if necessary
 from distribute_setup import use_setuptools
 use_setuptools()
 
 from setuptools import setup, find_packages
 from setuptools.command.test import test as TestCommand
-import os,sys,tempfile
-from fnmatch import fnmatch
-
-
 
 def _entry_point(script_name,pkg_path):
     return script_pref+script_name+' = '+main_pkg_name+'.'+pkg_path
@@ -60,33 +84,15 @@ def iter_files_tree(dir,to_base=True,patt=None):
 def _list_pkg_files(dir,patt=None):
     return list(iter_files_tree(os.path.join("lib",main_pkg_name,dir),patt=patt))
 
-#Simply running "python setup.py test" will not work because the test fixture
-#uses entry point script to install JBrowse (this is by itself a usefull test).
-#setup.py test command does not create entry point scripts.
-#Thus, we detect when a command line looks like "* setup.py test" and modify
-#it to look like "* setup.py develop --install-dir <tmp_dir> test", also
-#adding <tmp_dir> to PATH and PYTHONPATH.
-if len(sys.argv) >= 2 and sys.argv[-1] == "test" and sys.argv[-2] == "setup.py":
-    pos_test = -1
-    test_inst_dir = os.path.abspath(os.path.join("test_run","install"))
-    if not os.path.exists(test_inst_dir):
-        os.makedirs(test_inst_dir)
-    test_inst_dir = tempfile.mkdtemp(prefix="install.test.",suffix=".tmp",dir=test_inst_dir)
-    sys.path.insert(0,test_inst_dir)
-    PATH = os.environ.get("PATH",test_inst_dir)
-    os.environ["PATH"] = os.pathsep.join([test_inst_dir,PATH])
-    PYTHONPATH = os.environ.get("PYTHONPATH",test_inst_dir)
-    os.environ["PYTHONPATH"] = os.pathsep.join([test_inst_dir,PYTHONPATH])
-    sys.argv = sys.argv[:pos_test]+["develop","--install-dir",test_inst_dir]+sys.argv[pos_test:]
 
 setup(
     name = main_pkg_name,
-    version = "0.2",
+    version = "1.1.0",
     packages = find_packages("lib"),
     package_dir = {'':'lib'},
     #argh is used to auto-generate command line argument 
     #processing in entry points
-    install_requires = ['argh','argcomplete','biopython'],
+    install_requires = ['argh','argcomplete','biopython>=1.61'],
 	#this will install pytest module
     tests_require=['pytest'],
     cmdclass = {'test': PyTest},
@@ -96,6 +102,7 @@ setup(
 	#full URL could be vcs+proto://host/path@revision#egg=project-version
 	#dependency_links=["git+git://github.com/chapmanb/bcbb.git#egg=bcbb"],
     #dependency_links=["file:"+os.path.join(bcbb_src,"gff")+"#egg=bcbio_gff"],
+    dependency_links=["git+git://github.com/biopython/biopython.git@21cd969c68ca3d4f79ed5d3499766ac4eaecabb7#egg=biopython-1.61_"],
     package_data = {
         main_pkg_name: _list_pkg_files("data") + \
                 _list_pkg_files("test",patt="*.py") + \
