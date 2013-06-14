@@ -1,0 +1,3 @@
+#!/bin/bash
+lib/VICVB/data/install/install_to_dir_full.sh ~/work/galaxy-vcb/galaxy_tool_dependency_dir ~/work/galaxy-vcb/galaxy-dist.vcb /
+

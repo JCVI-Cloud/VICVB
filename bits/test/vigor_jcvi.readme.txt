@@ -1,6 +1,12 @@
+Production VIGOR is:
+/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/VIGOR3.pl
+/local/devel/ANNOTATION/VIRAL/VIGOR/data3
+Development is:
+/local/devel/ANNOTATION/VIRAL/VIGOR/new/VIGOR3.pl
+
 How to run upstream VIGOR to generate testing data:
 
- /local/devel/ANNOTATION/VIRAL/VIGOR/new/VIGOR3.pl –i fastafile –o outputprefix
+ /local/devel/ANNOTATION/VIRAL/VIGOR/prod3/VIGOR3.pl -i fastafile -o outputprefix
 
  
 

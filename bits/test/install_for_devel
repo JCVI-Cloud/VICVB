@@ -1,0 +1,3 @@
+#!/bin/bash
+python setup.py develop --install-dir ~/work/galaxy-vcb/galaxy_tool_dependency_dir/
+
