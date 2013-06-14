@@ -1,0 +1,226 @@
+>Features gi|30271926|ref|NC_004718.3|
+265	13413	gene
+			locus_tag	vigor_Pp1a
+			gene	Pp1a
+265	13413	CDS
+			codon_start	1
+			protein_id	gi_30271926.1
+			locus_tag	vigor_Pp1a
+			gene	Pp1a
+			product	replicase polyprotein 1a
+			note	synonym: ORF1a polyprotein
+265	21485	gene
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+265	13398	CDS
+13398	21485
+			codon_start	1
+			protein_id	gi_30271926.2
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	replicase polyprotein 1ab
+			ribosomal_slippage
+			note	synonym: ORF1ab polyprotein
+21492	25259	gene
+			locus_tag	vigor_S
+			gene	S
+21492	25259	CDS
+			codon_start	1
+			protein_id	gi_30271926.3
+			locus_tag	vigor_S
+			gene	S
+			product	spike glycoprotein
+			note	synonym: E2, peplomer protein
+25268	26092	gene
+			locus_tag	vigor_NS3a
+			gene	NS3a
+25268	26092	CDS
+			codon_start	1
+			protein_id	gi_30271926.4
+			locus_tag	vigor_NS3a
+			gene	NS3a
+			product	non-structural protein 3a
+			note	synonym: accessory protein 3a
+25689	26153	gene
+			locus_tag	vigor_NS3b
+			gene	NS3b
+25689	26153	CDS
+			codon_start	1
+			protein_id	gi_30271926.5
+			locus_tag	vigor_NS3b
+			gene	NS3b
+			product	non-structural protein 3b
+			note	synonym: accessory protein 3b
+26117	26347	gene
+			locus_tag	vigor_E
+			gene	E
+26117	26347	CDS
+			codon_start	1
+			protein_id	gi_30271926.6
+			locus_tag	vigor_E
+			gene	E
+			product	envelope small membrane protein
+			note	synonym: envelope protein
+26398	27063	gene
+			locus_tag	vigor_M
+			gene	M
+26398	27063	CDS
+			codon_start	1
+			protein_id	gi_30271926.7
+			locus_tag	vigor_M
+			gene	M
+			product	membrane protein
+			note	synonym: matrix protein, E1 glycoprotein
+27074	27265	gene
+			locus_tag	vigor_NS6
+			gene	NS6
+27074	27265	CDS
+			codon_start	1
+			protein_id	gi_30271926.8
+			locus_tag	vigor_NS6
+			gene	NS6
+			product	non-structural protein 6
+			note	synonym: accessory protein 6
+27273	27641	gene
+			locus_tag	vigor_NS7a
+			gene	NS7a
+27273	27641	CDS
+			codon_start	1
+			protein_id	gi_30271926.9
+			locus_tag	vigor_NS7a
+			gene	NS7a
+			product	non-structural protein 7a
+			note	synonym: accessory protein 7a,
+27638	27772	gene
+			locus_tag	vigor_NS7b
+			gene	NS7b
+27638	27772	CDS
+			codon_start	1
+			protein_id	gi_30271926.10
+			locus_tag	vigor_NS7b
+			gene	NS7b
+			product	non-structural protein 7b
+27779	27898	gene
+			locus_tag	vigor_NS8a
+			gene	NS8a
+27779	27898	CDS
+			codon_start	1
+			protein_id	gi_30271926.11
+			locus_tag	vigor_NS8a
+			gene	NS8a
+			product	non-structural protein 8a
+			note	synonym: accessory protein 8a
+27864	28118	gene
+			locus_tag	vigor_NS8b
+			gene	NS8b
+27864	28118	CDS
+			codon_start	1
+			protein_id	gi_30271926.12
+			locus_tag	vigor_NS8b
+			gene	NS8b
+			product	non-structural protein 8b
+			note	synonym: accessory protein 8b
+28120	29388	gene
+			locus_tag	vigor_N
+			gene	N
+28120	29388	CDS
+			codon_start	1
+			protein_id	gi_30271926.13
+			locus_tag	vigor_N
+			gene	N
+			product	nucleoprotein
+			note	synonym: nucleocapsid protein
+28130	28426	gene
+			locus_tag	vigor_NS9b
+			gene	NS9b
+28130	28426	CDS
+			codon_start	1
+			protein_id	gi_30271926.14
+			locus_tag	vigor_NS9b
+			gene	NS9b
+			product	non-structural protein 9b
+			note	synonym: accessory protein 9b
+28583	28795	gene
+			locus_tag	vigor_NS10
+			gene	NS10
+28583	28795	CDS
+			codon_start	1
+			protein_id	gi_30271926.15
+			locus_tag	vigor_NS10
+			gene	NS10
+			product	non-structural protein 10
+			note	synonym: accessory protein 10
+
+>Features gi_30271926.1
+4370	4382	mat_peptide
+			locus_tag	vigor_Pp1a
+			gene	Pp1a
+			product	nsp11
+
+>Features gi_30271926.2
+1	180	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp1
+			note	synonyms: leader protein, p28
+181	818	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp2
+819	2740	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp3
+2741	3240	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp4
+			note	synonym: p44
+3241	3546	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp5
+			note	synonym: 3CLpro
+3547	3836	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp6
+3837	3919	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp7
+3920	4117	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp8
+4118	4230	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp9
+4231	4369	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp10
+4370	5301	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp12
+			note	synonym: RNA-dependent RNA polymerase
+5302	5902	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp13
+			note	synonyms: MB, NTPase/Helicase
+5903	6429	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp14
+6430	6775	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp15
+			note	synonym: NendoU
+6776	7073	mat_peptide
+			locus_tag	vigor_Pp1ab
+			gene	Pp1ab
+			product	nsp16

@@ -1,0 +1,65 @@
+2013-06-12 11:04:43
+
+
+parameters
+	bl2seq_extend_hsp	25
+	bl2seq_extend_span	50
+	candidate_blastopts	-p blastx -M BLOSUM45 -e 1E-5 -g F -b 1000 -v 0 -F "" -z 3000000
+	candidate_evalue	
+	candidate_overlap_threshold	0.8
+	candidate_refdb	
+	command_line	../prod3/VIGOR3.pl -i NC_001449-VEEV.fasta -o NC_001449-VEEV
+	default_gene_optional	0
+	default_gene_required	0
+	default_gene_variation	1
+	frameshift_sensitivity	1
+	gene_variations	
+	jcvi_rules	1
+	mature_pep_mincoverage	50
+	mature_pep_minidentity	25
+	mature_pep_minsimilarity	40
+	mature_pep_refdb	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_mp
+	max_intron_size	7000
+	min_candidate_pctsimilarity	50
+	min_candidate_sbjcoverage	33
+	min_exon_size	3
+	min_intron_size	30
+	min_pseudogene_coverage	80
+	min_pseudogene_identity	50
+	min_pseudogene_similarity	75
+	noncanonical_splicing_genes	
+	optional_genes	
+	reference_db	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_db
+	required_genes	
+	ribosomal_slippage_genes	
+	rna_editing_genes	
+	selectivity	0.985
+	slippage_frameshift	-1
+	slippage_motif	[NT][NT][NT]AAAC
+	spliced_genes	
+	splicesite_extend_range	0
+	tile_overlap	1000000
+	tile_size	10000000
+	use_locus_tags	1
+	variation	0.975
+	verbose	0
+	vigorspace	/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/vigorscratch/403009.535818459
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+gi|9626526|ref|NC_00    11444      2            0      11250           3748          100.0           86.4             95.1   veev_db
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+gi_9626526.1       83.8   93.7   100.0  0.0   0.0   0.0   45..7526         2493   2506   AAD14562.1        NSP | non-structural polyprotein precursor P1234
+                    translation exception 5682..5684:R
+gi_9626526.1.1     100.0  100.0  100.0  0.0   0.0   0.0   45..1649         535    535    NP_740696.1       mRNA-capping enzyme nsp1
+gi_9626526.1.2     100.0  100.0  100.0  0.0   0.0   0.0   1650..4031       794    794    NP_740697.1       protease nsp2
+gi_9626526.1.3     100.0  100.0  100.0  0.0   0.0   0.0   4032..5702       557    557    NP_740698.1       non-structural protein nsp3
+gi_9626526.1.4     99.8   99.8   100.0  0.0   0.0   0.0   5703..7523       607    606    NP_740699.1       RNA-directed RNA polymerase nsp4
+gi_9626526.2       91.5   97.9   100.0  0.0   0.0   0.0   7562..11329      1255   1254   ADA84123.1        SP | structural polyprotein
+gi_9626526.2.1     98.2   99.6   100.0  0.0   0.0   0.0   7562..8386       275    275    53680683_C        capsid protein
+gi_9626526.2.2     100.0  100.0  100.0  0.0   0.0   0.0   8387..8563       59     59     290611_E3         E3 protein
+gi_9626526.2.3     96.7   99.3   100.0  0.0   0.0   0.0   8564..9832       423    423    53680683_E2       E2 envelope glycoprotein
+gi_9626526.2.4     96.4   100.0  100.0  0.0   0.0   0.0   9833..10000      56     56     53680683_6K       6K membrane protein
+gi_9626526.2.5     99.5   99.5   100.0  0.0   0.0   0.0   10001..11326     442    442    53680683_E1       E1 envelope glycoprotein
+

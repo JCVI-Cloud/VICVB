@@ -1,0 +1,68 @@
+>Features AB036860
+1	846	gene
+			locus_tag	vigor_NS1
+			gene	NS1
+1	846	CDS
+			codon_start	1
+			protein_id	AB036860.1
+			locus_tag	vigor_NS1
+			gene	NS1
+			product	non-structural protein 1
+1	1024	gene
+			locus_tag	vigor_NS2
+			gene	NS2
+1	33	CDS
+689	1024
+			codon_start	1
+			protein_id	AB036860.2
+			locus_tag	vigor_NS2
+			gene	NS2
+			product	non-structural protein 2
+>Features AB036867
+1	303	gene
+			locus_tag	vigor_NB
+			gene	NB
+1	303	CDS
+			codon_start	1
+			protein_id	AB036867.1
+			locus_tag	vigor_NB
+			gene	NB
+			product	NB protein
+8	1408	gene
+			locus_tag	vigor_NA
+			gene	NA
+8	1408	CDS
+			codon_start	1
+			protein_id	AB036867.2
+			locus_tag	vigor_NA
+			gene	NA
+			product	neuraminidase
+>Features AB036875
+1	1683	gene
+			locus_tag	vigor_NP
+			gene	NP
+1	1683	CDS
+			codon_start	1
+			protein_id	AB036875.1
+			locus_tag	vigor_NP
+			gene	NP
+			product	nucleoprotein
+>Features AB036878
+1	747	gene
+			locus_tag	vigor_M1
+			gene	M1
+1	747	CDS
+			codon_start	1
+			protein_id	AB036878.1
+			locus_tag	vigor_M1
+			gene	M1
+			product	matrix protein M1
+747	1076	gene
+			locus_tag	vigor_BM2
+			gene	BM2
+747	1076	CDS
+			codon_start	1
+			protein_id	AB036878.2
+			locus_tag	vigor_BM2
+			gene	BM2
+			product	BM2 protein

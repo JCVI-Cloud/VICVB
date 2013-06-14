@@ -1,0 +1,65 @@
+2013-06-12 11:05:40
+
+
+parameters
+	bl2seq_extend_hsp	25
+	bl2seq_extend_span	50
+	candidate_blastopts	-p blastx -M BLOSUM45 -e 1E-5 -g F -b 1000 -v 0 -F "" -z 3000000
+	candidate_evalue	
+	candidate_overlap_threshold	0.8
+	candidate_refdb	
+	command_line	../prod3/VIGOR3.pl -i NC_003461-HPIV1.fasta -o NC_003461-HPIV1
+	default_gene_optional	0
+	default_gene_required	0
+	default_gene_variation	1
+	frameshift_sensitivity	1
+	gene_variations	
+	jcvi_rules	1
+	mature_pep_mincoverage	50
+	mature_pep_minidentity	25
+	mature_pep_minsimilarity	40
+	mature_pep_refdb	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_mp
+	max_intron_size	7000
+	min_candidate_pctsimilarity	50
+	min_candidate_sbjcoverage	33
+	min_exon_size	3
+	min_intron_size	30
+	min_pseudogene_coverage	80
+	min_pseudogene_identity	50
+	min_pseudogene_similarity	75
+	noncanonical_splicing_genes	
+	optional_genes	
+	reference_db	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_db
+	required_genes	
+	ribosomal_slippage_genes	
+	rna_editing_genes	
+	selectivity	0.985
+	slippage_frameshift	-1
+	slippage_motif	[NT][NT][NT]AAAC
+	spliced_genes	
+	splicesite_extend_range	0
+	tile_overlap	1000000
+	tile_size	10000000
+	use_locus_tags	1
+	variation	0.975
+	verbose	0
+	vigorspace	/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/vigorscratch/746547.469011606
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+gi|19718363|ref|NC_0    15600     10            0      16746           5572          100.0          100.0            100.0   hpiv1_db
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+gi_19718363.1      100.0  100.0  100.0  0.0   0.0   0.0   120..1694        524    524    NP_604433.1       N | nucleocapsid protein
+gi_19718363.2      100.0  100.0  100.0  0.0   0.0   0.0   1809..2468       219    219    NP_604434.1       C' | C' protein
+                    translation exception 1809..1811:M
+gi_19718363.3      100.0  100.0  100.0  0.0   0.0   0.0   1844..3550       568    568    NP_604435.1       P | phosphoprotein
+gi_19718363.4      100.0  100.0  100.0  0.0   0.0   0.0   1854..2468       204    204    tr_Q8QT30_Q8QT30_ C | C protein
+gi_19718363.5      100.0  100.0  100.0  0.0   0.0   0.0   1923..2468       181    181    tr_Q8QT29_Q8QT29_ Y1 | Y1 protein
+gi_19718363.6      100.0  100.0  100.0  0.0   0.0   0.0   1941..2468       175    175    tr_Q8QT28_9PARA   Y2 | Y2 protein
+                    translation exception 1941..1943:M
+gi_19718363.7      100.0  100.0  100.0  0.0   0.0   0.0   3669..4715       348    348    tr_Q8QT27_Q8QT27_ M | matrix protein
+gi_19718363.8      100.0  100.0  100.0  0.0   0.0   0.0   5088..6755       555    555    NP_604440.1       F | fusion protein
+gi_19718363.9      100.0  100.0  100.0  0.0   0.0   0.0   6903..8630       575    575    NP_604441.1       HN | hemagglutinin-neuraminidase
+gi_19718363.10     100.0  100.0  100.0  0.0   0.0   0.0   8772..15443      2223   2223   NP_604442.1       L | RNA polymerase
+

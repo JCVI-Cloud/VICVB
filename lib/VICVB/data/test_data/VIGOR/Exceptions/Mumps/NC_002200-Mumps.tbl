@@ -1,0 +1,92 @@
+>Features gi|9695415|ref|NC_002200.1|
+146	1795	gene
+			locus_tag	vigor_NP
+			gene	NP
+146	1795	CDS
+			codon_start	1
+			protein_id	gi_9695415.1
+			locus_tag	vigor_NP
+			gene	NP
+			product	nucleocapsid protein
+1979	2490	gene
+			locus_tag	vigor_I
+			gene	I
+1979	2490	CDS
+			codon_start	1
+			protein_id	gi_9695415.2
+			locus_tag	vigor_I
+			gene	I
+			product	I protein
+			exception	RNA editing
+			note	four non-templated G's inserted during transcription
+2435	2441	misc_feature
+			locus_tag	vigor_I
+			note	location of RNA editing (AAGAGGG => AAGAGGGGGGG) in I protein
+1979	2653	gene
+			locus_tag	vigor_V
+			gene	V
+1979	2653	CDS
+			codon_start	1
+			protein_id	gi_9695415.3
+			locus_tag	vigor_V
+			gene	V
+			product	V protein
+1979	3152	gene
+			locus_tag	vigor_P
+			gene	P
+1979	3152	CDS
+			codon_start	1
+			protein_id	gi_9695415.4
+			locus_tag	vigor_P
+			gene	P
+			product	phosphoprotein
+			exception	RNA editing
+			note	two non-templated G's inserted during transcription
+2435	2441	misc_feature
+			locus_tag	vigor_P
+			note	location of RNA editing (AAGAGGG => AAGAGGGGG) in phosphoprotein
+3264	4391	gene
+			locus_tag	vigor_M
+			gene	M
+3264	4391	CDS
+			codon_start	1
+			protein_id	gi_9695415.5
+			locus_tag	vigor_M
+			gene	M
+			product	membrane protein
+4546	6162	gene
+			locus_tag	vigor_F
+			gene	F
+4546	6162	CDS
+			codon_start	1
+			protein_id	gi_9695415.6
+			locus_tag	vigor_F
+			gene	F
+			product	fusion protein
+6268	6441	gene
+			locus_tag	vigor_SH
+			gene	SH
+6268	6441	CDS
+			codon_start	1
+			protein_id	gi_9695415.7
+			locus_tag	vigor_SH
+			gene	SH
+			product	small hydrophobic protein
+6614	8362	gene
+			locus_tag	vigor_HN
+			gene	HN
+6614	8362	CDS
+			codon_start	1
+			protein_id	gi_9695415.8
+			locus_tag	vigor_HN
+			gene	HN
+			product	hemagglutinin-neuraminidase
+8438	15223	gene
+			locus_tag	vigor_L
+			gene	L
+8438	15223	CDS
+			codon_start	1
+			protein_id	gi_9695415.9
+			locus_tag	vigor_L
+			gene	L
+			product	large protein

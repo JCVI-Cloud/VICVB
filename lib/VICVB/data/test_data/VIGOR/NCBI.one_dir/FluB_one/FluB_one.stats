@@ -1,0 +1,5 @@
+Sequence	Length	Genes	Pseudogenes	CDS Bases	Peptide Bases	%Ref Coverage	%Ref Identity	%Ref Similarity	Ref DB
+AB036860	1024	2	0	1215	403	100.0	93.8	98.0	giv_b
+AB036867	1408	2	0	1704	566	100.0	98.1	98.9	giv_b
+AB036875	1683	1	0	1683	560	100.0	95.5	99.5	giv_b
+AB036878	1076	2	0	1077	357	100.0	98.6	99.4	giv_b

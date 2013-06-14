@@ -4,12 +4,12 @@
 			gene	POL
 619	7113	CDS
 			codon_start	1
-			protein_id	1.1
+			protein_id	gi_9627730.1
 			locus_tag	vigor_POL
 			gene	POL
 			product	polyprotein
 
->Features 1.1
+>Features gi_9627730.1
 1	69	mat_peptide
 			locus_tag	vigor_POL
 			gene	POL

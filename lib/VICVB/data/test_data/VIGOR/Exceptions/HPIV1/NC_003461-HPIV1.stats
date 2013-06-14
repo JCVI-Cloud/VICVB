@@ -1,2 +1,2 @@
 Sequence	Length	Genes	Pseudogenes	CDS Bases	Peptide Bases	%Ref Coverage	%Ref Identity	%Ref Similarity	Ref DB
-gi|9627730|ref|NC_001617.1|	7152	1	0	6495	2164	100.0	100.0	100.0	hrv
+gi|19718363|ref|NC_003461.1|	15600	10	0	16746	5572	100.0	100.0	100.0	hpiv1_db

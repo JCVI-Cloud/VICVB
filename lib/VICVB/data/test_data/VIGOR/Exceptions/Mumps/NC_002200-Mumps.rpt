@@ -1,0 +1,64 @@
+2013-06-12 11:05:11
+
+
+parameters
+	bl2seq_extend_hsp	25
+	bl2seq_extend_span	50
+	candidate_blastopts	-p blastx -M BLOSUM45 -e 1E-5 -g F -b 1000 -v 0 -F "" -z 3000000
+	candidate_evalue	
+	candidate_overlap_threshold	0.8
+	candidate_refdb	
+	command_line	../prod3/VIGOR3.pl -i NC_002200-Mumps.fasta -o NC_002200-Mumps
+	default_gene_optional	0
+	default_gene_required	0
+	default_gene_variation	1
+	frameshift_sensitivity	1
+	gene_variations	
+	jcvi_rules	1
+	mature_pep_mincoverage	50
+	mature_pep_minidentity	25
+	mature_pep_minsimilarity	40
+	mature_pep_refdb	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_mp
+	max_intron_size	7000
+	min_candidate_pctsimilarity	50
+	min_candidate_sbjcoverage	33
+	min_exon_size	3
+	min_intron_size	30
+	min_pseudogene_coverage	80
+	min_pseudogene_identity	50
+	min_pseudogene_similarity	75
+	noncanonical_splicing_genes	
+	optional_genes	
+	reference_db	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_db
+	required_genes	
+	ribosomal_slippage_genes	
+	rna_editing_genes	
+	selectivity	0.985
+	slippage_frameshift	-1
+	slippage_motif	[NT][NT][NT]AAAC
+	spliced_genes	
+	splicesite_extend_range	0
+	tile_overlap	1000000
+	tile_size	10000000
+	use_locus_tags	1
+	variation	0.975
+	verbose	0
+	vigorspace	/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/vigorscratch/718497.671493427
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+gi|9695415|ref|NC_00    15384      9            0      15471           5148          100.0           98.7             99.6   mmp_db
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+gi_9695415.1       97.4   99.2   100.0  0.0   0.0   0.0   146..1795        549    549    Q77IS8.1          NP | nucleocapsid protein
+gi_9695415.2       95.9   98.1   100.0  0.0   0.0   0.0   1979..2490       171    171    AEY76114.1        I | I protein
+                    transcription exception 2435..2441:AAGAGGGGGGG
+gi_9695415.3       98.2   99.9   100.0  0.0   0.0   0.0   1979..2653       224    224    BAK26765.1        V | V protein
+gi_9695415.4       100.0  100.0  100.0  0.0   0.0   0.0   1979..3152       391    391    NP_054708.1       P | phosphoprotein
+                    transcription exception 2435..2441:AAGAGGGGG
+gi_9695415.5       100.0  100.0  100.0  0.0   0.0   0.0   3264..4391       375    375    NP_054710.1       M | membrane protein
+gi_9695415.6       97.4   99.6   100.0  0.0   0.0   0.0   4546..6162       538    538    AAT81469.1        F | fusion protein
+gi_9695415.7       80.7   85.5   100.0  0.0   0.0   0.0   6268..6441       57     50     BAD13721.1        SH | small hydrophobic protein
+gi_9695415.8       96.6   99.5   100.0  0.0   0.0   0.0   6614..8362       582    582    AAT81471.1        HN | hemagglutinin-neuraminidase
+gi_9695415.9       100.0  100.0  100.0  0.0   0.0   0.0   8438..15223      2261   2261   P30929.1          L | large protein
+

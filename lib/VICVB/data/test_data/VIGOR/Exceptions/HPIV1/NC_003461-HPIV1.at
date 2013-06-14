@@ -1,0 +1,10 @@
+gi|19718363|ref|NC_003461.1|	hpiv1_db	120..1694	NP_604433.1	N	nucleocapsid protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	1809..2468	NP_604434.1	C'	C' protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	1844..3550	NP_604435.1	P	phosphoprotein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	1854..2468	tr_Q8QT30_Q8QT30_9PARA	C	C protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	1923..2468	tr_Q8QT29_Q8QT29_9PARA	Y1	Y1 protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	1941..2468	tr_Q8QT28_9PARA	Y2	Y2 protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	3669..4715	tr_Q8QT27_Q8QT27_9PARA	M	matrix protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	5088..6755	NP_604440.1	F	fusion protein	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	6903..8630	NP_604441.1	HN	hemagglutinin-neuraminidase	OK	
+gi|19718363|ref|NC_003461.1|	hpiv1_db	8772..15443	NP_604442.1	L	RNA polymerase	OK	

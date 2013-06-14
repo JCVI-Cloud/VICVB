@@ -1,0 +1,79 @@
+2013-06-11 17:32:32
+
+
+parameters
+	bl2seq_extend_hsp	25
+	bl2seq_extend_span	50
+	candidate_blastopts	-p blastx -M BLOSUM45 -e 1E-5 -g F -b 1000 -v 0 -F "" -z 3000000
+	candidate_evalue	
+	candidate_overlap_threshold	0.8
+	candidate_refdb	
+	command_line	/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/VIGOR3.pl -D giv_b -i FluB_one.fsa -O FluB_one
+	default_gene_optional	0
+	default_gene_required	0
+	default_gene_variation	1
+	frameshift_sensitivity	1
+	gene_variations	
+	jcvi_rules	1
+	mature_pep_mincoverage	50
+	mature_pep_minidentity	25
+	mature_pep_minsimilarity	40
+	mature_pep_refdb	/local/devel/ANNOTATION/VIRAL/VIGOR/data3/virus_mp
+	max_intron_size	7000
+	min_candidate_pctsimilarity	50
+	min_candidate_sbjcoverage	33
+	min_exon_size	3
+	min_intron_size	30
+	min_pseudogene_coverage	80
+	min_pseudogene_identity	50
+	min_pseudogene_similarity	75
+	noncanonical_splicing_genes	
+	optional_genes	
+	reference_db	/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/vigorscratch/887041.492926986/giv_b
+	required_genes	
+	ribosomal_slippage_genes	
+	rna_editing_genes	
+	selectivity	0.985
+	slippage_frameshift	-1
+	slippage_motif	[NT][NT][NT]AAAC
+	spliced_genes	
+	splicesite_extend_range	0
+	tile_overlap	1000000
+	tile_size	10000000
+	use_locus_tags	1
+	variation	0.975
+	verbose	0
+	vigorspace	/local/devel/ANNOTATION/VIRAL/VIGOR/prod3/vigorscratch/887041.492926986
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+AB036860                 1024      2            0       1215            403          100.0           93.8             98.0   giv_b
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+AB036860.1         91.8   97.0   100.0  0.0   0.0   0.0   1..846           281    282    ABL76887.1        NS1 | non-structural protein 1
+AB036860.2         98.4   100.0  100.0  0.0   0.0   0.0   1..33            122    122    AAA43751.1        NS2 | non-structural protein 2
+                                                          689..1024                                        
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+AB036867                 1408      2            0       1704            566          100.0           98.1             98.9   giv_b
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+AB036867.1         96.0   98.0   100.0  0.0   0.0   0.0   1..303           100    101    ABL76378.1        NB | NB protein
+AB036867.2         98.5   99.1   100.0  0.0   0.0   0.0   8..1408          466    467    ABL76379.1        NA | neuraminidase
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+AB036875                 1683      1            0       1683            560          100.0           95.5             99.5   giv_b
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+AB036875.1         95.5   99.4   100.0  0.0   0.0   0.0   1..1683          560    560    NP_056661.1       NP | nucleoprotein
+
+
+Sequence               Length  Genes  Pseudogenes  CDS Bases  Peptide Bases  %Ref Coverage  %Ref Identity  %Ref Similarity   Ref DB
+AB036878                 1076      2            0       1077            357          100.0           98.6             99.4   giv_b
+
+gene_id            %id    %sim   %cov   %t5   %gap  %t3   start..stop      pep sz ref sz ref id            definition
+AB036878.1         98.4   99.1   100.0  0.0   0.0   0.0   1..747           248    248    NP_056664.1       M1 | matrix protein M1
+AB036878.2         99.1   100.0  100.0  0.0   0.0   0.0   747..1076        109    109    AAP22105.1        BM2 | BM2 protein
+
