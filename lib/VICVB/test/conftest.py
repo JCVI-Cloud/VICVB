@@ -43,7 +43,7 @@ def collect_vigor_inp_dirs():
         #Here I just duplicate test data unpacking to get the list of tests.
         goto_cleandir_test()
         get_test_data_dir()
-        for genome_set_dir in ("NCBI.one_arch","NCBI.one_dir","NCBI","ASM"): #("ASM",): #("NCBI",):
+        for genome_set_dir in ("Exceptions","NCBI.one_arch","NCBI.one_dir","NCBI","ASM"): #("ASM",): #("NCBI",):
             #TMP:
             #genome_set_dir = os.path.join("/home/atovtchi/work/jcvi_cloud_vir/test_data","VIGOR",genome_set_dir)
             genome_set_dir = os.path.join("test_data","VIGOR",genome_set_dir)
