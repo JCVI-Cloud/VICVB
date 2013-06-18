@@ -96,7 +96,6 @@ class GFF3Writer:
                 self.last_by_type[sf.type] = sf
                 id_handler = self._write_feature(sf, rec.id, out_handle,
                         id_handler)
-                print sf
             if include_fasta and len(rec.seq) > 0:
                 fasta_recs.append(rec)
         if len(fasta_recs) > 0:
