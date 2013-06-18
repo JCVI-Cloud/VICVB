@@ -11,6 +11,7 @@ import logging
 import config
 import util
 import os, glob, shutil, tempfile
+from contextlib import nested
 
 log = logging.getLogger(__name__)
 
@@ -50,60 +51,81 @@ class galaxy_jbrowse(object):
         gff_file = util.abspath(gff_file)
         #fasta_file = util.abspath(fasta_file)
         jbrowse_out_dir = os.path.join(data_dir_out,opt["jbrowse_data_subdir"])
-        check_call(["prepare-refseqs.pl","--gff",gff_file,"--out",jbrowse_out_dir],
-                env=env)
-        #@todo use biodb-to-json instead with flat file input, and accept config
-        #file as a parameter (provide a default one too). See volvox.json config
-        #in the distribution. Also add dropped_features param to load everything
-        #unique in field 3 of GFF and check that only dropped_features are missing
-        #from the config
-        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
-            "--trackLabel","Genes",
-            "--cssClass","feature5",
-            "--type","gene",
-            "--autocomplete","all"
-            "--getLabel",
-            "--getType"
-            ],
-            env=env)
-        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
-            "--trackLabel","CDS",
-            "--cssClass","generic_parent",
-            "--subfeatureClasses",'{ "exon" : "exon" }',
-            "--type","CDS",
-            "--type","exon",
-            "--autocomplete","all"
-            "--getLabel",
-            "--getType",
-            "--getSubs",
-            "--getPhase"
-            ],
-            env=env)
-        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
-            "--trackLabel","Peptides",
-            "--cssClass","est",
-            "--subfeatureClasses",'{ "mat_peptide" : "transcript-CDS" }',
-            "--type","mat_peptide",
-            "--autocomplete","all"
-            "--getLabel",
-            "--getType",
-            "--getSubs",
-            "--getPhase"
-            ],
-            env=env)
-        check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
-            "--trackLabel","Misc",
-            "--cssClass","feature3",
-            "--type","misc_feature",
-            "--autocomplete","all"
-            "--getLabel",
-            "--getType",
-            "--getSubs",
-            "--getPhase"
-            ],
-            env=env)
-        check_call(["generate-names.pl","--out",jbrowse_out_dir],
-            env=env)
+        #can use os.devnull to discard all output
+        jbrowse_conv_log_base = os.path.join(os.getcwd(),"jbrowse_conv_log")
+        with nested( open(jbrowse_conv_log_base+".out","w"),\
+            open(jbrowse_conv_log_base+".err","w") ) as ( stdout, stderr ):
+            
+            check_call(["prepare-refseqs.pl","--gff",gff_file,"--out",jbrowse_out_dir],
+                    env=env, 
+                    stdout=stdout,
+                    stderr=stderr)
+            #@todo use biodb-to-json instead with flat file input, and accept config
+            #file as a parameter (provide a default one too). See volvox.json config
+            #in the distribution. Also add dropped_features param to load everything
+            #unique in field 3 of GFF and check that only dropped_features are missing
+            #from the config
+            check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+                "--trackLabel","Genes",
+                "--cssClass","feature5",
+                "--type","gene",
+                "--autocomplete","all"
+                "--getLabel",
+                "--getType"
+                ],
+                env=env, 
+                stdout=stdout,
+                stderr=stderr)
+
+            check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+                "--trackLabel","CDS",
+                "--cssClass","generic_parent",
+                "--subfeatureClasses",'{ "exon" : "exon" }',
+                "--type","CDS",
+                "--type","exon",
+                "--autocomplete","all"
+                "--getLabel",
+                "--getType",
+                "--getSubs",
+                "--getPhase"
+                ],
+                env=env, 
+                stdout=stdout,
+                stderr=stderr)
+
+            check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+                "--trackLabel","Peptides",
+                "--cssClass","est",
+                "--subfeatureClasses",'{ "mat_peptide" : "transcript-CDS" }',
+                "--type","mat_peptide",
+                "--autocomplete","all"
+                "--getLabel",
+                "--getType",
+                "--getSubs",
+                "--getPhase"
+                ],
+                env=env, 
+                stdout=stdout,
+                stderr=stderr)
+
+            check_call(["flatfile-to-json.pl","--gff",gff_file,"--out",jbrowse_out_dir,
+                "--trackLabel","Misc",
+                "--cssClass","feature3",
+                "--type","misc_feature",
+                "--autocomplete","all"
+                "--getLabel",
+                "--getType",
+                "--getSubs",
+                "--getPhase"
+                ],
+                env=env, 
+                stdout=stdout,
+                stderr=stderr)
+
+            check_call(["generate-names.pl","--out",jbrowse_out_dir],
+                env=env, 
+                stdout=stdout,
+                stderr=stderr)
 
         tracks_conf_file = os.path.join(jbrowse_out_dir,"trackList.json")
         tracks_conf = util.load_config_json(tracks_conf_file)
